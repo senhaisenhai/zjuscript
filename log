@@ -1,0 +1,2256 @@
+perl ./getpdffromlink.pl 
+realurl http://link.springer.com/article/10.1007%2Fs11239-013-0875-2
+-------------1|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00411-013-0458-9
+-------------2|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10072-013-1308-x
+-------------3|740-------------
+realurl http://genomemedicine.com/content/5/1/3/abstract
+-------------4|740-------------
+realurl http://hyper.ahajournals.org/content/early/2013/01/21/HYPERTENSIONAHA.111.00331.reprint
+-------------6|740-------------
+realurl http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2012197a.html
+-------------7|740-------------
+realurl http://msj.sagepub.com/content/early/2013/01/17/1352458512472752.long
+-------------8|740-------------
+realurl http://medlaw.oxfordjournals.org/content/early/2013/01/15/medlaw.fws040.long
+-------------9|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/art.37835/abstract;jsessionid=4A4E52FC845D54A9BBF11EE21D73D005.d04t02
+-------------10|740-------------
+realurl http://www.nature.com/jid/journal/vaop/ncurrent/full/jid2012485a.html
+-------------12|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=E35122D39DEC913ECF00C8E8666F054C.journals
+-------------13|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0052750
+-------------14|740-------------
+realurl http://www.nature.com/ejhg/journal/vaop/ncurrent/full/ejhg2012282a.html
+-------------15|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=270DFDA873D43A2010781C733C1546AC.journals
+-------------16|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00423-012-1043-4
+-------------17|740-------------
+realurl http://www.biomedcentral.com/1471-2334/13/2
+-------------18|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1043466612007983
+-------------22|740-------------
+realurl http://msj.sagepub.com/content/early/2012/12/20/1352458512470862.long
+-------------23|740-------------
+caught error: Error GETing http://www.expert-reviews.com/doi/abs/10.1586/erm.12.116?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&: Forbidden at ./getpdffromlink.pl line 99.
+realurl http://pubs.acs.org/doi/abs/10.1021/pr3008607
+-------------26|740-------------
+realurl http://www.jbiomedsem.com/content/3/1/10
+-------------27|740-------------
+realurl http://ije.oxfordjournals.org/content/early/2012/12/14/ije.dys221.long
+-------------28|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00216-012-6602-6
+-------------29|740-------------
+realurl http://ije.oxfordjournals.org/content/41/6/1625.long
++++++++++++++30|740+++++++++++++
+realurl http://www.sciencedirect.com/science/article/pii/S0303846712005719
+-------------31|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=296637DA8EF6882A809DE66A178640E7.journals
+-------------32|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/sim.5685/abstract;jsessionid=70B0577D21276AB6D3E6DDD9F8BAF546.d03t02
+-------------33|740-------------
+caught error: Error GETing https://www.jstage.jst.go.jp/article/clinicalneurol/52/11/52_1336/_article/-char/ja/: Can't connect to www.jstage.jst.go.jp:443 at ./getpdffromlink.pl line 99.
+realurl http://www.sciencedirect.com/science/article/pii/S1525157812002723
+-------------35|740-------------
+realurl http://www.nature.com/ejhg/journal/vaop/ncurrent/full/ejhg2012249a.html
+-------------36|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=203AAC30FA46597B84DF36CA43EEEBF8.journals
+-------------37|740-------------
+realurl http://www.biomedcentral.com/1756-0500/5/655
+-------------38|740-------------
+realurl http://www.biomedcentral.com/1471-2164/13/645
+-------------40|740-------------
+realurl http://www.nature.com/bjc/journal/v108/n1/full/bjc2012508a.html
+-------------41|740-------------
+realurl http://www.ped-rheum.com/content/10/1/37
+-------------42|740-------------
+realurl http://circgenetics.ahajournals.org/content/5/6/656.long
+-------------43|740-------------
+realurl http://ije.oxfordjournals.org/content/41/6/1786.long
+-------------44|740-------------
+realurl http://aje.oxfordjournals.org/content/176/11/995.long
+-------------45|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0022030212008223
+-------------46|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=CE5E3C85BC9FF15608B52495A5B39596.journals
+-------------48|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0269-9370&volume=27&issue=3&spage=303
+-------------49|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs11427-012-4398-4
+-------------50|740-------------
+realurl http://www.biomedcentral.com/1471-2458/12/949
+-------------51|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10549-012-2324-x
+-------------52|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/hed.23184/abstract;jsessionid=91ED9C1DC835702844875B94B455C1EA.d02t02
+-------------53|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=B0D90282E6A6BF7FAF6D3DD60570D2E7.journals
+-------------54|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00216-012-6480-y
+-------------55|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=1C2E333883299F5CEE834D34E89A846D.journals
+-------------56|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/cyt.12024/abstract;jsessionid=0CB184128FEFABF780E70676873966CA.d03t01
+-------------57|740-------------
+realurl http://www.dovepress.com/the-danish-centre-for-strategic-research-in-type-2-diabetes-dd2-study--peer-reviewed-article-CLEP
+-------------59|740-------------
+realurl http://www.dovepress.com/the-danish-centre-for-strategic-research-in-type-2-diabetes-dd2-projec-peer-reviewed-article-CLEP
+-------------60|740-------------
+realurl http://www.dovepress.com/new-national-biobank-of-the-danish-center-for-strategic-research-on-ty-peer-reviewed-article-CLEP
+-------------61|740-------------
+realurl http://ije.oxfordjournals.org/content/early/2012/10/15/ije.dys160.long
+-------------62|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/hep.26092/abstract;jsessionid=FAB461BC96C6FD2814BD3AC69A537DBE.d04t03
+-------------63|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=DB26E4A26DC16F381599D8D47408E005.journals
+-------------64|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/00016489.2012.701018
+-------------65|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/bjd.12077/abstract;jsessionid=B9E0989F2D906F55BD8E801407EC0C29.d03t01
+-------------67|740-------------
+realurl http://www.biological-markers.com/article/sprecware--software-tools-for-standard-preanalytical-code--sprec--labeling---effective-exchange-and-search-of-stored-biospecimens
+-------------68|740-------------
+realurl http://www.recentiprogressi.it/articoli.php?archivio=yes&vol_id=1136&id=12523
+-------------70|740-------------
+realurl http://jcem.endojournals.org/content/97/12/4383.long
+-------------71|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0006291X12018104
+-------------72|740-------------
+realurl http://www.biomedcentral.com/1756-0500/5/510
+-------------73|740-------------
+realurl http://heapol.oxfordjournals.org/content/early/2012/09/15/heapol.czs077.long
+-------------75|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0041134512008147
+-------------76|740-------------
+realurl http://www.nature.com/ejhg/journal/vaop/ncurrent/full/ejhg2012213a.html
+-------------78|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1582-4934.2012.01628.x/abstract;jsessionid=1EB3D457BE8B3BD6229A110E850B00B2.d02t03
+-------------79|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=CE064087AEEA3FF5C6BEBF85AFDBC836.journals
+-------------80|740-------------
+caught error: Error GETing http://www.nature.com/gim/journal/v14/n12/full/gim201288a.html: Unauthorized at ./getpdffromlink.pl line 99.
+realurl http://www.sciencedirect.com/science/article/pii/S0959804912005734
+-------------84|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0165572812002251
+-------------85|740-------------
+realurl http://www.cmj.hr/2012/53/4/22911534.htm
+-------------86|740-------------
+realurl http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6263299
+-------------87|740-------------
+realurl http://www.karger.com/Article/FullText/339269
+-------------88|740-------------
+realurl http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/imia-yearbook/imia-yearbook-2012/issue/special/manuscript/17956.html
+-------------89|740-------------
+realurl http://ije.oxfordjournals.org/content/early/2012/08/09/ije.dys095.long
+-------------90|740-------------
+realurl http://jamia.bmj.com/content/19/6/1115.long
+-------------91|740-------------
+realurl http://ebooks.iospress.nl/publication/21807
+-------------92|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953612005369
+-------------93|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1789.2012.01341.x/abstract;jsessionid=69E93BBF0B51E746D61EE8851C3C3398.d02t01
+-------------94|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0041456
+-------------96|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1052-9551&volume=21&issue=3&spage=157
+-------------97|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0748798312009286
+-------------98|740-------------
+realurl http://www.translational-medicine.com/content/10/1/150
+-------------99|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12015-012-9399-y
+-------------100|740-------------
+realurl http://stroke.ahajournals.org/content/43/10/2712.long
+-------------101|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S095461111200193X
+-------------102|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673612611799
+-------------103|740-------------
+realurl http://jcp.bmj.com/content/65/11/1043.long
+-------------104|740-------------
+realurl http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001571
+-------------106|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12160-012-9389-y
+-------------107|740-------------
+realurl http://www.iss.it/publ/anna/2012/2/482119.pdf
+-------------108|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00428-012-1267-2
+-------------109|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1877959X12000416
+-------------110|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00103-012-1487-2
+-------------111|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00103-012-1502-7
+-------------112|740-------------
+realurl http://www.karger.com/Article/FullText/336861
+-------------113|740-------------
+realurl http://www.karger.com/Article/Pdf/336671
++++++++++++++114|740+++++++++++++
+realurl http://www.karger.com/Article/Pdf/336663
++++++++++++++115|740+++++++++++++
+realurl http://www.karger.com/Article/FullText/336544
+-------------116|740-------------
+realurl http://www.nature.com/ejhg/journal/v21/n1/full/ejhg201299a.html
+-------------117|740-------------
+realurl http://www.nature.com/ejhg/journal/v20/n11/full/ejhg201296a.html
+-------------118|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0263-6352&volume=30&issue=7&spage=1383
+-------------120|740-------------
+realurl http://www.biomedcentral.com/1756-0500/5/265
+-------------122|740-------------
+realurl http://www.nature.com/ejhg/journal/v21/n1/full/ejhg2012104a.html
+-------------123|740-------------
+realurl http://www.jove.com/video/4068/staining-protocols-for-human-pancreatic-islets
+-------------124|740-------------
+realurl http://genomebiology.com/content/13/5/158
+-------------125|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0015028212004815
+-------------126|740-------------
+realurl http://pubs.acs.org/doi/abs/10.1021/pr300185k
+-------------128|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/dmrr.2316/abstract;jsessionid=64F5D8658D0F920045072521DED24339.d03t03
+-------------129|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1874391912002734
+-------------130|740-------------
+realurl http://jme.bmj.com/content/38/9/561.long
+-------------131|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0036050
+-------------134|740-------------
+realurl http://jmp.oxfordjournals.org/content/37/3/255.long
+-------------135|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1052-9551&volume=21&issue=2&spage=61
+-------------136|740-------------
+realurl http://www.biomedcentral.com/1471-2105/13/S4/S5
+-------------137|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0002939412001006
+-------------138|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00592-012-0396-z
+-------------139|740-------------
+caught error: Error GETing http://www.nature.com/gim/journal/v14/n9/full/gim201245a.html: Unauthorized at ./getpdffromlink.pl line 99.
+realurl http://www.em-consulte.com/article/707782/alertePM
+-------------141|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1078588412001803
+-------------142|740-------------
+realurl http://ije.oxfordjournals.org/content/early/2012/04/14/ije.dys066.long
++++++++++++++143|740+++++++++++++
+realurl http://www.pieronline.jp/content/article/0385-0684/39040/493
+-------------144|740-------------
+realurl http://bmjopen.bmj.com/content/2/2/e000900.long
+-------------146|740-------------
+realurl http://www.akademiai.com/content/n3r671010vn12551/?genre=article&id=doi%3a10.1556%2fOH.2012.29367
+-------------147|740-------------
+realurl http://www.biomedcentral.com/1471-2458/12/269
+-------------148|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3016.2012.01259.x/abstract;jsessionid=2375DB935C8EE72F239B6507B3E83BA9.d03t03
+-------------149|740-------------
+realurl http://www.bmj.com/content/344/bmj.e2459?view=long&pmid=22470161
+-------------150|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673612604048
+-------------151|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1471-0528.2012.03307.x/abstract;jsessionid=963CF849F276175F071FD96F39DE10F1.d03t01
+-------------152|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12687-012-0091-3
+-------------153|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.34414/abstract;jsessionid=1562A18DC01DE07CEFC3DA2076A7352B.d02t04
+-------------154|740-------------
+realurl http://www.nature.com/gim/journal/v14/n4/full/gim201223a.html
+-------------155|740-------------
+realurl http://aje.oxfordjournals.org/content/175/7/685.long
+-------------156|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/humu.22070/abstract;jsessionid=1D04ED26FF2C7E6D1BBCC7D64EC812D2.d04t03
+-------------157|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/fca.12.3?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov&
++++++++++++++158|740+++++++++++++
+realurl http://aje.oxfordjournals.org/content/175/9/859.long
+-------------159|740-------------
+realurl http://www.annualreviews.org/doi/full/10.1146/annurev-genom-090711-163834?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------160|740-------------
+realurl http://tidsskriftet.no/article/2224389
+-------------161|740-------------
+realurl http://www.ncbi.nlm.nih.gov/pmc/?term=10.1289/ehp.1104522
+-------------162|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1078143912000464
+-------------163|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0032315
+-------------164|740-------------
+caught error: Error GETing http://www.nature.com/gim/journal/v14/n4/full/gim201169a.html: Unauthorized at ./getpdffromlink.pl line 99.
+realurl http://link.springer.com/article/10.1007%2Fs10561-012-9298-0
+-------------166|740-------------
+caught error: Error GETing http://www.nature.com/gim/journal/v14/n4/full/gim201211a.html: Unauthorized at ./getpdffromlink.pl line 99.
+realurl http://www.sciencedirect.com/science/article/pii/S000326971200084X
+-------------168|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0929664611001537
+-------------169|740-------------
+realurl http://www.akademiai.com/content/cr4xk7326552p710/?genre=article&id=doi%3a10.1556%2fOH.2012.29295
+-------------170|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0033350611003647
+-------------171|740-------------
+realurl http://aje.oxfordjournals.org/content/175/10/1021.long
+-------------172|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12529-012-9222-9
+-------------173|740-------------
+realurl http://www.eurekaselect.com/74106/article
+-------------174|740-------------
+realurl http://www.revistanefrologia.com/modules.php?name=articulos&idarticulo=11121&idlangart=ES
+-------------175|740-------------
+realurl http://www.danmedj.dk/portal/page/portal/danmedj.dk/dmj_forside/PAST_ISSUE/2012/DMJ_2012_02/B4403
+-------------176|740-------------
+realurl http://www.nature.com/nprot/journal/v7/n2/full/nprot.2011.447.html
+-------------178|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs13353-012-0082-4
+-------------179|740-------------
+realurl http://www.nature.com/nature/journal/v481/n7382/full/481443c.html
+-------------180|740-------------
+caught error: Error GETing https://www.jstage.jst.go.jp/article/clinicalneurol/51/11/51_11_903/_article/-char/ja/: Can't connect to www.jstage.jst.go.jp:443 at ./getpdffromlink.pl line 99.
+realurl http://erj.ersjournals.com/content/40/1/177.long
+-------------182|740-------------
+caught error: Error GETing http://www.nature.com/gim/journal/v14/n4/full/gim201162a.html: Unauthorized at ./getpdffromlink.pl line 99.
+caught error: Error GETing http://www.nature.com/gim/journal/v14/n6/full/gim201150a.html: Unauthorized at ./getpdffromlink.pl line 99.
+realurl http://www.nature.com/gim/journal/v14/n2/full/gim0b013e3182310ba0a.html
+-------------185|740-------------
+realurl http://www.nature.com/gim/journal/v14/n2/full/gim0b013e31822e578fa.html
+-------------186|740-------------
+realurl http://ajcp.ascpjournals.org/content/137/2/277.long
+-------------187|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0022534711054711
+-------------188|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0012-3706&volume=55&issue=2&spage=128
+-------------189|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/09513590.2011.613966
+-------------190|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0029070
+-------------191|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12253-011-9492-6
+-------------192|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00228-011-1171-8
+-------------193|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025734
+-------------194|740-------------
+realurl http://ije.oxfordjournals.org/content/40/6/1652.long
+-------------196|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0263-6352&volume=30&issue=2&spage=368
+-------------197|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12687-011-0070-0
+-------------198|740-------------
+realurl http://www.nature.com/ejhg/journal/v20/n3/full/ejhg2011216a.html
+-------------199|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/epi.11.70?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov&
++++++++++++++200|740+++++++++++++
+realurl http://link.springer.com/article/10.1007%2Fs12687-011-0052-2
+-------------201|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0920996411005603
+-------------202|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1744-6872&volume=22&issue=1&spage=32
+-------------203|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs13277-011-0256-4
+-------------204|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0021915011010227
+-------------205|740-------------
+realurl http://www.clinsci.org/cs/122/0421/cs1220421.htm
++++++++++++++207|740+++++++++++++
+realurl http://link.springer.com/protocol/10.1007%2F978-1-60327-216-2_5
+-------------209|740-------------
+realurl http://www.biomedcentral.com/1471-2415/11/32
+-------------210|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.34304/abstract;jsessionid=15A13825EB484FD2B69550567C34AE52.d02t03
+-------------211|740-------------
+realurl http://www.nature.com/nm/journal/v17/n11/full/nm1111-1326a.html
+-------------212|740-------------
+realurl http://www.nature.com/bjc/journal/v106/n2/full/bjc2011461a.html
++++++++++++++213|740+++++++++++++
+realurl http://link.springer.com/article/10.1007%2Fs11019-011-9353-9
+-------------214|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S002072921100498X
+-------------215|740-------------
+realurl http://www.nature.com/nature/journal/v478/n7369/full/478312a.html
+-------------216|740-------------
+realurl http://www.nature.com/nrg/journal/v12/n11/full/nrg3083.html
+-------------217|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajhb.21206/abstract;jsessionid=E9512F0AFD411F59185692817AD137B3.d02t03
+-------------218|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025583
+-------------219|740-------------
+realurl http://www.bmj.com/content/343/bmj.d5647?view=long&pmid=21972296
+-------------223|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1423-0410.2011.01553.x/abstract;jsessionid=0A5579F83B50ADF8F4B32D30CE0C58F1.d04t04
+-------------224|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1556-0864&volume=6&issue=11&spage=1810
+-------------225|740-------------
+realurl http://database.oxfordjournals.org/content/2011/bar043.long
+-------------226|740-------------
+realurl http://pt.wkhealth.com/pt/re/lwwgateway/landingpage.htm;jsessionid=RJYFBmG8LdBJs2v2LF9TYNgL11QpnF1jCnpJhFnNhNLHLTwCM2Ly!51994531!181195628!8091!-1?sid=WKPTLP:landingpage&an=00125817-900000000-99571
+-------------227|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2362.2011.02587.x/abstract;jsessionid=009573607261866C291A3C59E3849D1D.d01t04
+-------------228|740-------------
+realurl http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001328
+-------------229|740-------------
+realurl http://jme.bmj.com/content/38/6/347.long
+-------------230|740-------------
+realurl http://www.biological-markers.com/article/development-of-a-website-and-biobank-database-for-the-nanosized-cancer-polymarker-biochip-project--a-multicenter-italian-experience-ijbm-00986-11
+-------------232|740-------------
+realurl http://www.jclinbioinformatics.com/content/1/1/24
+-------------233|740-------------
+caught error: Error GETing https://www.jstage.jst.go.jp/article/clinicalneurol/50/11/50_11_928/_article/-char/ja/: Can't connect to www.jstage.jst.go.jp:443 at ./getpdffromlink.pl line 99.
+realurl http://link.springer.com/article/10.1007%2Fs10728-011-0194-8
+-------------235|740-------------
+realurl http://adr.sagepub.com/content/23/4/353.long
+-------------236|740-------------
+realurl http://www.nature.com/tpj/journal/v13/n1/full/tpj201140a.html
+-------------237|740-------------
+realurl http://www.nature.com/ng/journal/v43/n10/full/ng.939.html
+-------------238|740-------------
+realurl http://ebooks.iospress.nl/publication/14298
+-------------239|740-------------
+realurl http://ebooks.iospress.nl/publication/14248
+-------------240|740-------------
+realurl http://care.diabetesjournals.org/content/34/10/2317.long
+-------------241|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953611004709
+-------------242|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1472979211001314
+-------------243|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10728-011-0180-1
+-------------244|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2605.2011.01208.x/abstract;jsessionid=AC2B9153B98C92584D1D07BD7C0D3130.d01t01
+-------------245|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0213005X11001960
+-------------246|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0167527311007479
+-------------247|740-------------
+realurl http://jac.oxfordjournals.org/content/66/10/2362.long
+-------------248|740-------------
+realurl http://www.nature.com/nature/journal/v475/n7357/full/475454d.html
+-------------249|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00277-011-1293-1
+-------------250|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1047279711001797
+-------------251|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0002914911017826
+-------------252|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00439-011-1065-y
+-------------253|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00439-011-1066-x
+-------------255|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00439-011-1068-8
+-------------256|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10728-011-0181-0
+-------------257|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1078588411003649
+-------------258|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00439-011-1042-5
+-------------259|740-------------
+realurl http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002067
+-------------260|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=03B51C53738B9D68CD747C646BEF8240.journals
+-------------261|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953611003364
+-------------262|740-------------
+realurl http://www.biomedcentral.com/1471-2156/12/58
+-------------263|740-------------
+realurl http://www.akademiai.com/content/p42g1815k36180w3/?genre=article&id=doi%3a10.1556%2fOH.2011.29141
+-------------264|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00439-011-1019-4
+-------------265|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0009898111003494
+-------------266|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1398-9995.2011.02644.x/abstract;jsessionid=A43366EAE7333C45FD98F3FFB4F35896.d03t03
+-------------267|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.2011.10474.x/abstract;jsessionid=0D1BD3CF2BC3EA5ED80DCEF94FBBEEDA.d03t03
+-------------268|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/pgs.11.24?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------269|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953611002796
+-------------271|740-------------
+realurl http://jncimono.oxfordjournals.org/content/2011/42/46.long
+-------------273|740-------------
+realurl http://jncimono.oxfordjournals.org/content/2011/42/41.long
+-------------274|740-------------
+realurl http://jncimono.oxfordjournals.org/content/2011/42/24.long
+-------------275|740-------------
+realurl http://jncimono.oxfordjournals.org/content/2011/42/16.long
+-------------276|740-------------
+realurl http://jncimono.oxfordjournals.org/content/2011/42/8.long
+-------------277|740-------------
+realurl http://jncimono.oxfordjournals.org/content/2011/42/1.long
+-------------278|740-------------
+realurl http://www.translational-medicine.com/content/9/1/91
+-------------279|740-------------
+realurl http://www.nature.com/jhh/journal/v26/n8/full/jhh201158a.html
+-------------280|740-------------
+realurl http://www.ugeskriftet.dk/portal/page/portal/LAEGERDK/UGESKRIFT_FOR_LAEGER/Artikelvisning?pUrl=/UGESKRIFT_FOR_LAEGER/TIDLIGERE_NUMRE/2011/UFL_2011_21/UFL_2011_173_21_1489
+-------------281|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ijc.26200/abstract;jsessionid=6D75CFED98AE7F4CBDCBA6963E66272D.d03t01
+-------------283|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019675
+-------------284|740-------------
+realurl http://www.biomedcentral.com/1471-2458/11/345
+-------------285|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019586
+-------------286|740-------------
+realurl http://www.biological-markers.com/article/rfid-as-a-new-ict-tool-to-monitor-specimen-life-cycle-and-quality-control-in-a-biobank-ijbm-10-00943
+-------------287|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33896/abstract;jsessionid=2FC371C01BF1F21CB83A9D4A4A8C313E.d03t04
+-------------288|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0019141
+-------------289|740-------------
+realurl http://pt.wkhealth.com/pt/re/lwwgateway/landingpage.htm;jsessionid=RJYV6M51KxjQYBQv15MT82yydhLyHSCQrTP24mBjQXDXkqhLt6W6!369787901!181195629!8091!-1?sid=WKPTLP:landingpage&an=00125817-201109000-00010
+-------------290|740-------------
+realurl http://www.dovepress.com/expression-of-organic-anion-transporting-polypeptides-1b3-1b1-and-1a2--peer-reviewed-article-OTT
+-------------291|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953611002152
+-------------292|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1537-2995.2010.03022.x/abstract;jsessionid=A6675237E31AF208464BE3A630D9DD20.d03t03
+-------------293|740-------------
+realurl http://pubs.acs.org/doi/abs/10.1021/es2004254
+-------------294|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1754.2011.02072.x/abstract;jsessionid=7B28F326C4EDA7C6BC44550CDFFC0D4A.d03t04
+-------------295|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2011.01348.x/abstract;jsessionid=0CC6B90411A9A797F822079CEF867A05.d03t02
+-------------297|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1096719211000941
+-------------298|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0929664611600211
+-------------299|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs12471-010-0060-6
+-------------300|740-------------
+realurl http://www.akademiai.com/content/e006564r4661j17k/?genre=article&id=doi%3a10.1556%2fOH.2011.29068
+-------------301|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1934148210013584
+-------------302|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0017404
+-------------303|740-------------
+realurl http://www.nature.com/jhg/journal/v56/n5/full/jhg201119a.html
+-------------304|740-------------
+realurl http://www.biomedcentral.com/1471-2350/12/34
+-------------305|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0022347610011480
+-------------306|740-------------
+realurl http://arthritis-research.com/content/13/1/R30
+-------------307|740-------------
+realurl http://atvb.ahajournals.org/content/31/5/1215.long
+-------------308|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S002191501100075X
+-------------309|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/dmrr.1178/abstract;jsessionid=0680D67A88E86469A1DA475DAED0A688.d04t02
+-------------310|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1874391911000303
+-------------311|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10439-011-0253-1
+-------------312|740-------------
+realurl http://arthritis-research.com/content/13/1/R13
+-------------313|740-------------
+realurl http://www.nutritionj.com/content/10/1/13
+-------------314|740-------------
+realurl http://sjp.sagepub.com/content/39/2/203.long
+-------------315|740-------------
+realurl http://www.karger.com/Article/FullText/323285
+-------------316|740-------------
+realurl http://www.nature.com/jhg/journal/v56/n3/full/jhg2010169a.html
+-------------317|740-------------
+realurl http://www.ingentaconnect.com/content/fgdp/pdc/2011/00000018/00000001/art00003?token=00541d55942db0a01e1275c5f3b3b4746474870256f7b506e597b384f582a2f4876753375686f49c0c83
+-------------319|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0015779
+-------------320|740-------------
+realurl http://erj.ersjournals.com/content/37/1/204.long
+-------------321|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0306453010003045
+-------------323|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2010.03789.x/abstract;jsessionid=1E7AAFFD637B9134F227EC014EF057AE.d01t04
+-------------324|740-------------
+realurl http://bioinformatics.oxfordjournals.org/content/27/4/589.long
++++++++++++++325|740+++++++++++++
+realurl http://www.sciencedirect.com/science/article/pii/S0021915010009640
+-------------326|740-------------
+realurl http://www.annlabmed.org/journal/viewJournal.html?year=2010&vol=30&page=718
+-------------329|740-------------
+realurl http://www.coloproctol.org/DOIx.php?id=10.3393/jksc.2010.26.5.316
+-------------330|740-------------
+realurl http://www.nature.com/tpj/journal/v11/n3/full/tpj201086a.html
+-------------331|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/bmm.10.104?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------333|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1386505610002145
+-------------334|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1047279710003480
+-------------335|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2010.03948.x/abstract;jsessionid=05081C2BDFEF5202C233295E41422A46.d04t03
+-------------336|740-------------
+caught error: Error GETing http://www.degruyter.com/dg/error404;jsessionid=624687B1C3162AD4AD180FB824C830CD: Not Found at ./getpdffromlink.pl line 99.
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ijc.25786/abstract;jsessionid=36D66E4606C1964C623DAAEB8335E254.d02t01
+-------------339|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1054880710001419
+-------------340|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1040-8746&volume=23&issue=1&spage=100
+-------------341|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1040-8746&volume=23&issue=1&spage=112
+-------------342|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2796.2010.02304.x/abstract;jsessionid=AA4870F2AF0C00F15704F61AA85E90B4.d04t02
+-------------343|740-------------
+realurl http://jme.bmj.com/content/36/12/775.long
+-------------344|740-------------
+realurl http://jme.bmj.com/content/37/3/179.long
+-------------345|740-------------
+realurl http://www.em-consulte.com/article/270742/alertePM
+-------------346|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2010.03899.x/abstract;jsessionid=D486DEECFD37B67305DCABE80FC2FE0C.d03t03
+-------------347|740-------------
+realurl http://www.nature.com/tpj/journal/v11/n2/full/tpj201081a.html
+-------------350|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/00016349.2010.500368
+-------------351|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_23
+-------------352|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_21
+-------------353|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_16
+-------------354|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_15
+-------------355|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_13
+-------------356|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_12
+-------------357|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_7
+-------------358|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_6
+-------------359|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_5
+-------------360|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_3
+-------------361|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_2
+-------------362|740-------------
+realurl http://link.springer.com/protocol/10.1007%2F978-1-59745-423-0_1
+-------------363|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0013302
+-------------364|740-------------
+realurl http://eurpub.oxfordjournals.org/content/22/1/139.long
+-------------365|740-------------
+realurl http://genomemedicine.com/content/2/10/72
+-------------366|740-------------
+realurl http://ebooks.iospress.nl/publication/13662
+-------------368|740-------------
+realurl http://rheumatology.oxfordjournals.org/content/50/1/137.long
++++++++++++++369|740+++++++++++++
+realurl http://archpsyc.jamanetwork.com/article.aspx?articleid=210878
+-------------370|740-------------
+realurl http://www.karger.com/Article/Pdf/276767
++++++++++++++371|740+++++++++++++
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33617/abstract;jsessionid=4487A8C5D00516DC7DB39DD9EA117C46.d02t01
+-------------372|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajhb.21067/abstract;jsessionid=9B73FDD0D564A0E690FB8B353E977210.d02t02
+-------------374|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1047279710001614
+-------------375|740-------------
+realurl http://www.karger.com/Article/FullText/318160
+-------------377|740-------------
+realurl http://www.akademiai.com/content/x9hu540x875207x8/?genre=article&id=doi%3a10.1556%2fOH.2010.28943
+-------------378|740-------------
+realurl http://care.diabetesjournals.org/content/33/11/2342.long
+-------------379|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1047279710001547
+-------------380|740-------------
+realurl http://www.biomedcentral.com/1471-2458/10/479
+-------------381|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10916-009-9402-6
+-------------382|740-------------
+realurl http://iospress.metapress.com/content/h851k17711172735/?genre=article&issn=1387-2877&volume=21&issue=2&spage=337
+-------------383|740-------------
+realurl http://rheumatology.oxfordjournals.org/content/50/1/32.long
+-------------384|740-------------
+realurl http://www.karger.com/Article/FullText/309852
+-------------385|740-------------
+realurl http://www.mcponline.org/content/9/11/2497.long
+-------------386|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10897-010-9305-1
+-------------387|740-------------
+realurl http://www.nature.com/ejhg/journal/v18/n11/full/ejhg2010106a.html
++++++++++++++388|740+++++++++++++
+realurl http://link.springer.com/article/10.1007%2Fs10561-010-9190-8
+-------------389|740-------------
+realurl http://www.biomedcentral.com/1471-2164/11/426
+-------------390|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S104727971000116X
+-------------391|740-------------
+realurl http://www.karger.com/Article/FullText/292651
+-------------392|740-------------
+realurl http://www.biomedcentral.com/1471-2369/11/14
+-------------393|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0920996410013654
+-------------394|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2184.2010.00687.x/abstract;jsessionid=757AAA33224AC4A8DDB7DBC95BF4104C.d03t04
+-------------395|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0954611110002829
+-------------396|740-------------
+realurl http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011281
+-------------397|740-------------
+realurl http://jech.bmj.com/content/65/6/522.long
+-------------398|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1399-0004.2010.01431.x/abstract;jsessionid=310AC757B285C2527EC8604827B87A23.d01t03
+-------------399|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/0284186X.2010.496792
+-------------400|740-------------
+realurl http://www.nature.com/ejhg/journal/v18/n11/full/ejhg201093a.html
++++++++++++++401|740+++++++++++++
+realurl http://www.sciencedirect.com/science/article/pii/S0002870310001791
+-------------402|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/03009741003742763
+-------------403|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1399-5448.2010.00660.x/abstract;jsessionid=747D591CD78A0AB4F5B005AFBEF5AF55.d04t04
+-------------404|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10654-010-9466-0
+-------------406|740-------------
+realurl http://www.biomedcentral.com/1471-2458/10/270
+-------------408|740-------------
+realurl http://scv.sagepub.com/content/14/2/148.long
+-------------409|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=C69B26704C6B3AC0B4858CAE491BB5E2.journals
+-------------410|740-------------
+realurl http://www.ugeskriftet.dk/portal/page/portal/LAEGERDK/UGESKRIFT_FOR_LAEGER/Artikelvisning?pUrl=/UGESKRIFT_FOR_LAEGER/TIDLIGERE_NUMRE/2010/UFL_2010_19/UFL_2010_172_19_1446
+-------------411|740-------------
+realurl http://pubs.acs.org/doi/abs/10.1021/pr100234w
+-------------412|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1752-8062.2010.00175.x/abstract;jsessionid=318278E8363207E5A8FDFEA4D2543938.d02t02
+-------------413|740-------------
+realurl http://www.nature.com/jhh/journal/v25/n3/full/jhh201044a.html
+-------------414|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3016.2009.01078.x/abstract;jsessionid=47045A689B2F45B5EEA36E4211FA63CD.d04t04
+-------------416|740-------------
+realurl http://www.karger.com/Article/FullText/296278
+-------------418|740-------------
+realurl http://www.fasebj.org/content/24/9/3135.long
+-------------420|740-------------
+realurl http://journals.cambridge.org/action/login;jsessionid=9E28353D3A937B857F95D8DCCFF5B2FB.journals
+-------------421|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0002929710001461
+-------------422|740-------------
+realurl http://bioinformatics.oxfordjournals.org/content/26/9/1205.long
++++++++++++++425|740+++++++++++++
+realurl http://cebp.aacrjournals.org/content/19/4/1004.long
+-------------426|740-------------
+realurl http://www.nature.com/ejhg/journal/v18/n7/full/ejhg201016a.html
++++++++++++++427|740+++++++++++++
+realurl https://www.thieme-connect.com/DOI/DOI?10.1055/s-0030-1249185
+-------------428|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00428-010-0889-5
+-------------430|740-------------
+realurl http://link.springer.com/article/10.1245%2Fs10434-010-0959-6
+-------------432|740-------------
+realurl http://online.liebertpub.com/doi/abs/10.1089/aid.2009.0122
+-------------433|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0161-9268&volume=33&issue=1&spage=E41
+-------------434|740-------------
+realurl http://jme.bmj.com/content/36/2/93.long
+-------------435|740-------------
+realurl http://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b912078e
+-------------437|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953609008041
+-------------438|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/00365510903527838
+-------------439|740-------------
+realurl http://jn.nutrition.org/content/140/3/522.long
+-------------440|740-------------
+realurl http://informahealthcare.com/doi/abs/10.3109/02841860903447069
+-------------441|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/dmrr.1059/abstract;jsessionid=7229C4E1A1308A1928EF5E17C039DED1.d04t02
+-------------442|740-------------
+realurl http://www.jle.com/fr/revues/medecine/bdc/e-docs/00/04/53/AF/resume.phtml
++++++++++++++443|740+++++++++++++
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2009.03760.x/abstract;jsessionid=831B11E1489533C6212AAE14007CF264.d04t03
+-------------445|740-------------
+realurl http://atvb.ahajournals.org/content/30/3/612.long
+-------------446|740-------------
+caught error: Error GETing http://www.expert-reviews.com/doi/abs/10.1586/erm.09.69?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&: Forbidden at ./getpdffromlink.pl line 99.
+realurl http://www.sciencedirect.com/science/article/pii/S0039606009006813
+-------------448|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10654-009-9413-0
+-------------449|740-------------
+realurl http://erj.ersjournals.com/content/34/6/1477.long
+-------------450|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0167527309015745
+-------------451|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0167527309015216
+-------------452|740-------------
+realurl http://www.karger.com/Article/FullText/262329
+-------------454|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673609619899
+-------------455|740-------------
+realurl http://sjp.sagepub.com/content/38/1/46.long
+-------------456|740-------------
+realurl http://www.retrovirology.com/content/6/1/98
+-------------457|740-------------
+realurl http://link.springer.com/article/10.1245%2Fs10434-009-0783-z
+-------------458|740-------------
+realurl https://www.thieme-connect.com/DOI/DOI?10.1055/s-0029-1241858
+-------------459|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0002929709004571
+-------------460|740-------------
+realurl http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2008.157099?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------461|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S002604950900328X
+-------------462|740-------------
+realurl http://jech.bmj.com/content/64/11/1004.long
+-------------463|740-------------
+realurl http://journal.publications.chestnet.org/article.aspx?articleid=1086328
+-------------464|740-------------
+realurl http://www.biomedcentral.com/1471-2350/10/98
+-------------467|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33032/abstract;jsessionid=23F39E2D5F3859EE27603EB2B2B439A8.d03t04
+-------------469|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673609616093
+-------------471|740-------------
+realurl http://www.sciencemag.org/content/325/5944/1054.long
+-------------472|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/pbc.22236/abstract;jsessionid=23EDED07FA7D94D50601D0B964A8C125.d02t03
+-------------473|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10552-009-9423-y
+-------------474|740-------------
+realurl http://humrep.oxfordjournals.org/content/24/12/3025.long
+-------------475|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10561-009-9150-3
+-------------476|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8519.2009.01749.x/abstract;jsessionid=45A7584AADC0ED08ECD9D462CC2A05AA.d03t04
+-------------477|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/elps.200800655/abstract;jsessionid=149BED0D4F5D4BE8D0DE7337DB08F0A3.d02t03
+-------------478|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ijc.24631/abstract;jsessionid=7D6B3D2C0147A74BC051D15A7C681816.d03t02
+-------------479|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ijc.24774/abstract;jsessionid=38CE041F8AC4A799EC04DCE59EAA71BC.d03t03
+-------------480|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/nbm.1417/abstract;jsessionid=4A3C994DCFD1969A39FD9593E0939678.d03t01
+-------------481|740-------------
+realurl http://www.nature.com/jhh/journal/v24/n2/full/jhh200952a.html
+-------------482|740-------------
+realurl http://erj.ersjournals.com/content/35/2/317.long
+-------------483|740-------------
+realurl http://www.nature.com/hr/journal/v32/n9/full/hr200992a.html
+-------------484|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2009.03569.x/abstract;jsessionid=2F9B2EED27FB6AF0AC53C93958577A5D.d02t03
+-------------486|740-------------
+realurl http://www.bioscience.org/2009/v1s/af/18/fulltext.htm
+-------------487|740-------------
+realurl http://www.nature.com/emm/journal/v41/n9/full/emm200970a.html
+-------------489|740-------------
+realurl http://www.nature.com/ejhg/journal/v17/n12/full/ejhg200987a.html
++++++++++++++490|740+++++++++++++
+realurl http://www.sciencedirect.com/science/article/pii/S1246782009000469
+-------------491|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1442-2050.2009.00969.x/abstract;jsessionid=B6B65556DA5D0EF8E4A81E1FD544542D.d04t01
+-------------492|740-------------
+realurl http://www.karger.com/Article/FullText/167801
+-------------494|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673609606644
+-------------496|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0022030209704941
+-------------499|740-------------
+caught error: Error GETing http://www.biomedcentral.com/1753-6561/3%20Suppl%202/S6: Not Found at ./getpdffromlink.pl line 99.
+realurl http://www.retrovirology.com/content/6/1/27
+-------------501|740-------------
+realurl http://www.cmj.hr/2009/50/1/19260138.htm
+-------------502|740-------------
+realurl http://stroke.ahajournals.org/content/40/4/1245.long
+-------------503|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1044-3983&volume=20&issue=1&spage=91
+-------------504|740-------------
+realurl http://bjo.bmj.com/content/93/5/577.long
+-------------505|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1556-0864&volume=4&issue=4&spage=505
+-------------506|740-------------
+realurl http://www.nature.com/ejhg/journal/v17/n8/full/ejhg20099a.html
++++++++++++++507|740+++++++++++++
+realurl http://www.pnas.org/content/106/8/2700.long
+-------------508|740-------------
+realurl http://jme.bmj.com/content/35/2/125.long
+-------------509|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00774-008-0031-9
+-------------511|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32635/abstract;jsessionid=B4AE3C2FEA247B9F4139A5344E70229F.d04t03
+-------------513|740-------------
+realurl http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/thrombosis-and-haemostasis/contents/archive/issue/92/manuscript/10630.html
+-------------514|740-------------
+realurl http://vet.sagepub.com/content/46/1/2.long
+-------------515|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0277953608006072
+-------------516|740-------------
+realurl http://www.nature.com/tpj/journal/v9/n2/full/tpj200818a.html
+-------------517|740-------------
+realurl http://cebp.aacrjournals.org/content/17/12/3344.long
+-------------518|740-------------
+realurl http://www.tandfonline.com/doi/abs/10.1080/15265160802513093?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------519|740-------------
+realurl http://ije.oxfordjournals.org/content/38/1/72.long
+-------------520|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1473309908702615
+-------------521|740-------------
+realurl http://www.nature.com/bjc/journal/v100/n1/full/6604795a.html
++++++++++++++522|740+++++++++++++
+realurl http://mutage.oxfordjournals.org/content/24/2/117.long
+-------------523|740-------------
+realurl http://www.biomedcentral.com/1472-6939/9/17
+-------------524|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32559/abstract;jsessionid=A0EDA969488D2462BD96C864275106C0.d02t02
+-------------526|740-------------
+realurl http://www.elis.sk/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=226&category_id=7&option=com_virtuemart&vmcchk=1&Itemid=1
+-------------527|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00109-008-0412-5
+-------------528|740-------------
+realurl http://cebp.aacrjournals.org/content/17/11/2954.long
+-------------529|740-------------
+realurl http://jech.bmj.com/content/63/2/121.long
+-------------530|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs11017-008-9079-8
+-------------531|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1742-7843.2008.00291.x/abstract;jsessionid=901B61F649058C35FAFEA782AC8ED93B.d01t02
+-------------532|740-------------
+realurl http://informahealthcare.com/doi/abs/10.1080/00365510701809235
+-------------535|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00292-008-1031-1
+-------------536|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00292-008-1043-x
+-------------537|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0021915008004486
+-------------539|740-------------
+realurl http://www.mcponline.org/content/7/10/2061.long
+-------------540|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8519.2008.00673.x/abstract;jsessionid=8C72998A8D128395DF4B6E13648C785D.d02t01
+-------------541|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10561-008-9104-1
+-------------542|740-------------
+realurl http://www.bmj.com/content/337/bmj.a345?view=long&pmid=18617496
+-------------543|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0167527308005561
+-------------544|740-------------
+realurl http://www.nature.com/nm/journal/v14/n7/full/nm0708-701a.html
+-------------545|740-------------
+realurl http://msj.sagepub.com/content/14/8/1120.long
+-------------546|740-------------
+realurl http://jech.bmj.com/content/62/7/607.long
+-------------548|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/14622416.9.6.773?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------549|740-------------
+realurl http://www.nature.com/clpt/journal/v84/n3/full/clpt200889a.html
+-------------550|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0022175908001373
+-------------551|740-------------
+realurl http://www.nature.com/jhg/journal/v53/n8/full/jhg200889a.html
+-------------552|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2008.02122.x/abstract;jsessionid=B8A550D6B6420F21ABB53C8D5A87C88D.d01t02
+-------------553|740-------------
+realurl http://pubs.acs.org/doi/abs/10.1021/pr070482e
+-------------554|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0021915008001706
+-------------555|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i62.long
+-------------556|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i56.long
+-------------557|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i51.long
+-------------558|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i46.long
+-------------559|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i41.long
+-------------560|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i31.long
+-------------561|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i23.long
+-------------562|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i2.long
+-------------563|740-------------
+realurl http://ije.oxfordjournals.org/content/37/suppl_1/i16.long
+-------------564|740-------------
+realurl http://www.nature.com/ejhg/journal/v16/n7/full/ejhg200849a.html
++++++++++++++565|740+++++++++++++
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0889-4655&volume=23&issue=2&spage=153
+-------------566|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0963-0643&volume=18&issue=3&spage=309
+-------------567|740-------------
+realurl http://ije.oxfordjournals.org/content/37/2/234.long
+-------------568|740-------------
+realurl http://ebooks.iospress.nl/publication/11459
+-------------569|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/14622416.9.2.235?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------570|740-------------
+realurl http://www.bmj.com/content/336/7642/467.2?view=long&pmid=18309984
+-------------571|740-------------
+realurl http://jamia.bmj.com/content/15/3/357.long
+-------------572|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0021915008000178
+-------------573|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1349-7006.2008.00765.x/abstract;jsessionid=322BFA52AFB45E3F42A15AC43CBDE25F.d02t01
+-------------574|740-------------
+realurl http://www.nature.com/bjc/journal/v98/n5/full/6604245a.html
++++++++++++++575|740+++++++++++++
+realurl http://jama.jamanetwork.com/article.aspx?articleid=181410
+-------------576|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0738399107004910
+-------------577|740-------------
+realurl http://www.revespcardiol.org/en/linkresolver/articulo-resolver/13115086/
+-------------578|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32145/abstract;jsessionid=10189CFF7BC7F5E1FD10859F551032DE.d03t02
+-------------579|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32146/abstract;jsessionid=D7225E4B756CAAF735FB362D7512E2BF.d03t03
+-------------580|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0195-9131&volume=40&issue=2&spage=303
+-------------581|740-------------
+realurl http://www.nature.com/ejhg/journal/v16/n3/full/5201979a.html
++++++++++++++582|740+++++++++++++
+realurl http://jech.bmj.com/content/62/2/160.long
+-------------583|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ajmg.c.30159/abstract;jsessionid=B6DCA436B3E60F1168242BD555484A6B.d02t04
+-------------584|740-------------
+realurl http://www.clinexprheumatol.org/pubmed/find-pii.asp?pii=18173921
+-------------585|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10654-007-9209-z
+-------------586|740-------------
+realurl http://www.karger.com/Article/FullText/112366
++++++++++++++587|740+++++++++++++
+realurl http://aje.oxfordjournals.org/content/167/4/419.long
+-------------589|740-------------
+realurl http://jhc.sagepub.com/content/56/3/201.long
+-------------590|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10561-007-9051-2
+-------------592|740-------------
+realurl http://www.akademiai.com/content/6v506q13g443476v/?genre=article&id=doi%3a10.1556%2fOH.2007.28066
+-------------594|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1044-3983&volume=18&issue=6&spage=740
+-------------595|740-------------
+realurl http://bfg.oxfordjournals.org/content/6/3/193.long
+-------------596|740-------------
+realurl http://bmb.oxfordjournals.org/content/83/1/235.long
+-------------597|740-------------
+realurl http://informahealthcare.com/doi/abs/10.1080/02841860701592400
+-------------598|740-------------
+realurl http://www.nature.com/nbt/journal/v25/n9/full/nbt0907-973b.html
+-------------599|740-------------
+realurl http://tidsskriftet.no/article/1580591
+-------------600|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2007.02998.x/abstract;jsessionid=0DB231CB9007DB283362DCCE11366D87.d03t04
+-------------601|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0021915007004686
+-------------602|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673607613786
+-------------603|740-------------
+realurl http://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2006.088096?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------604|740-------------
+realurl http://www.eymj.org/DOIx.php?id=10.3349/ymj.2007.48.4.684
+-------------605|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1748-720X.2007.00166.x/abstract;jsessionid=CA02C8DEC3E8B9911BBC79656EE88AB5.d02t01
+-------------606|740-------------
+realurl http://www.karger.com/Article/FullText/104453
+-------------607|740-------------
+realurl http://www.karger.com/Article/FullText/104451
+-------------608|740-------------
+realurl http://www.karger.com/Article/FullText/104446
+-------------609|740-------------
+realurl http://www.karger.com/Article/FullText/104445
+-------------610|740-------------
+realurl http://erj.ersjournals.com/content/30/2/373.long
+-------------611|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs11019-007-9086-y
+-------------614|740-------------
+realurl http://www.degruyter.com/view/j/cclm.2007.45.issue-10/cclm.2007.160/cclm.2007.160.xml;jsessionid=723187DEB8542C9FB6852F19D3B78823
+-------------615|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10545-007-0631-x
+-------------616|740-------------
+realurl http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0885-3177&volume=35&issue=1&spage=53
+-------------619|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673607609246
+-------------620|740-------------
+realurl http://www.nature.com/nm/journal/v13/n6/full/nm0607-653a.html
+-------------621|740-------------
+realurl http://tidsskriftet.no/article/1546170
+-------------622|740-------------
+realurl http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/thrombosis-and-haemostasis/contents/archive/issue/736/manuscript/8230.html
+-------------623|740-------------
+realurl http://www.jlr.org/content/48/8/1772.long
+-------------624|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs11064-007-9336-7
+-------------625|740-------------
+realurl http://www.akademiai.com/content/q641w3178ml41245/?genre=article&id=doi%3a10.1556%2fOH.2007.28021
+-------------626|740-------------
+realurl http://www.nature.com/ejhg/journal/v15/n7/full/5201850a.html
++++++++++++++627|740+++++++++++++
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2184.2007.00429.x/abstract;jsessionid=C356BD6923B76C7EC0F67BAF869435CF.d04t03
+-------------628|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ijc.22770/abstract;jsessionid=296C42617FDAA57C7C9F80FB2524E5B4.d04t01
+-------------629|740-------------
+realurl http://informahealthcare.com/doi/abs/10.1080/02841860701203545
+-------------630|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0008874907000342
+-------------631|740-------------
+realurl http://jpmph.org/DOIx.php?id=10.3961/jpmph.2007.40.2.122
+-------------632|740-------------
+realurl http://www.bmj.com/content/334/7595/659.1?view=long&pmid=17395934
+-------------634|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1547-5069.2007.00139.x/abstract;jsessionid=78FAA3BD233D8296398ACA493D30C9FD.d01t01
+-------------635|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0021915007001207
+-------------636|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1742-7843.2006.00035.x/abstract;jsessionid=4C896941DF4D9D42112D00AC422C3164.d04t04
+-------------637|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/path.2147/abstract;jsessionid=DAB4B5306A70CD5AC19EF10EC3D3E374.d03t04
+-------------638|740-------------
+realurl http://www.nature.com/nature/journal/v446/n7132/full/446119a.html
+-------------639|740-------------
+realurl http://hmg.oxfordjournals.org/content/16/5/573.long
+-------------640|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0165460806007096
+-------------641|740-------------
+realurl http://www.elsevier.es/en/linksolver/ft/ivp/0213-005X/25/23?s=tr&ty=582250
++++++++++++++643|740+++++++++++++
+realurl http://www.jendocrinolinvest.it/jei/en/abstract.cfm?articolo_id=3314
+-------------644|740-------------
+realurl http://www.nature.com/nrg/journal/v8/n2/full/nrg1991.html
+-------------647|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/humu.20453/abstract;jsessionid=572AD45F282DB818B8AF6E42FE524D69.d04t04
+-------------648|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2006.00546.x/abstract;jsessionid=B250281F42ACAAE029B635C8E241CFA7.d04t04
+-------------649|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2006.00542.x/abstract;jsessionid=DBB764E662ED0D0400D761B75A7E3213.d02t03
+-------------650|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2184.2006.00404.x/abstract;jsessionid=5563B45D4C0566F5C8AF3D191FE0BB9F.d04t02
+-------------651|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0420.2006.00730.x/abstract;jsessionid=4F4B495FAED7BB9597219C822544C6D4.d04t01
+-------------652|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs10654-006-9041-x
+-------------653|740-------------
+realurl http://www.biomedcentral.com/1471-2350/7/74
+-------------654|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S002191500600534X
+-------------655|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2006.02615.x/abstract;jsessionid=0C05D5F10E40CB27B9DC0A1956A0D54F.d04t04
+-------------656|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1369848606000483
+-------------657|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1369848606000471
+-------------658|740-------------
+realurl http://www.biomedcentral.com/1471-2172/7/22
+-------------659|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0006322306007104
+-------------660|740-------------
+realurl http://pubs.rsc.org/en/Content/ArticleLanding/2006/EM/b602809h
++++++++++++++661|740+++++++++++++
+realurl http://www.nature.com/mp/journal/v11/n10/full/4001873a.html
+-------------663|740-------------
+realurl http://ije.oxfordjournals.org/content/35/4/844.long
+-------------665|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S002604950600117X
+-------------666|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00428-006-0234-1
+-------------668|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00335-006-0006-x
+-------------669|740-------------
+realurl http://www.sciencemag.org/content/312/5780/1584.1.long
+-------------670|740-------------
+realurl http://www.karger.com/Article/FullText/92655
+-------------671|740-------------
+realurl http://www.bmj.com/content/332/7549/1052.9?view=long&pmid=16675786
+-------------673|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs11019-005-7984-4
+-------------674|740-------------
+caught error: Error GETing http://www.biomedcentral.com/1472-6939/7/E4: Not Found at ./getpdffromlink.pl line 99.
+realurl http://www.nature.com/nature/journal/v440/n7082/full/440263a.html
+-------------678|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1769721205000406
+-------------679|740-------------
+realurl http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/thrombosis-and-haemostasis/contents/archive/issue/747/manuscript/5859.html
+-------------680|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/14622416.7.2.219?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------681|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1470204506706180
+-------------682|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S1470204506705903
+-------------683|740-------------
+realurl http://arthritis-research.com/content/8/1/R19
+-------------684|740-------------
+realurl http://www.sciencemag.org/content/311/5760/456.2.long
+-------------685|740-------------
+realurl http://www.nature.com/labinvest/journal/v86/n2/full/3700372a.html
+-------------687|740-------------
+realurl http://cebp.aacrjournals.org/content/14/12/2952.long
+-------------688|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs00125-005-0044-z
+-------------689|740-------------
+realurl http://www.biomedcentral.com/1471-2369/6/14
+-------------690|740-------------
+realurl http://link.springer.com/article/10.1007%2Fs11019-005-0397-6
+-------------691|740-------------
+realurl http://eurpub.oxfordjournals.org/content/16/4/433.long
+-------------693|740-------------
+realurl http://tidsskriftet.no/article/1261538
+-------------694|740-------------
+realurl http://ard.bmj.com/content/65/4/453.long
+-------------695|740-------------
+realurl http://www.futuremedicine.com/doi/abs/10.2217/14622416.6.6.639?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------696|740-------------
+realurl http://www.nature.com/nm/journal/v11/n7/full/nm0705-696a.html
+-------------697|740-------------
+realurl http://jme.bmj.com/content/31/7/415.long
+-------------698|740-------------
+realurl http://www.nature.com/ejhg/journal/v13/n9/full/5201458a.html
++++++++++++++699|740+++++++++++++
+realurl http://www.sciencedirect.com/science/article/pii/S0049384804006358
+-------------700|740-------------
+realurl http://www.tandfonline.com/doi/abs/10.1080/01459740590905642?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed&
+-------------701|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S000292970760723X
+-------------702|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2005.00442.x/abstract;jsessionid=19B8DB4583C8846E35BEF813017DBAE7.d03t02
+-------------703|740-------------
+realurl http://online.liebertpub.com/doi/abs/10.1089/adt.2004.2.683
+-------------705|740-------------
+realurl https://www.mja.com.au/journal/2005/182/2/biobank-who-d-bank-it
+-------------706|740-------------
+realurl http://archinte.jamanetwork.com/article.aspx?articleid=486347
+-------------707|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/sim.1996/abstract;jsessionid=14410FEB5881671B78DF22B9FBF42AD1.d02t01
+-------------709|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0026049504002112
+-------------710|740-------------
+realurl http://sjp.sagepub.com/content/32/3/224.long
+-------------715|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S016777990400112X
+-------------716|740-------------
+realurl http://circ.ahajournals.org/content/109/19/2279.long
+-------------717|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/gepi.10300/abstract;jsessionid=4F7376D19DD40A6AFCBD84B5B04F9CC7.d02t04
+-------------720|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/ijc.11668/abstract;jsessionid=59590544AA960AFFAACF5F86DA53961E.d04t01
+-------------721|740-------------
+realurl http://www.ingentaconnect.com/content/rmp/ipc/2003/00000011/00000003/art00003?token=005c1cde8221d582008167232d45232b5f24736a432c4067737d283568293c62207d673f582f6bd41d1dddc66d7f
+-------------722|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673603140780
+-------------723|740-------------
+realurl http://www.nature.com/nm/journal/v9/n8/full/nm0803-982b.html
+-------------724|740-------------
+realurl http://www.sciencemag.org/content/300/5625/1485.long
+-------------726|740-------------
+realurl http://www.sciencedirect.com/science/article/pii/S0140673603133776
+-------------727|740-------------
+realurl http://www.karger.com/Article/FullText/69544
+-------------728|740-------------
+realurl http://www.nature.com/nm/journal/v9/n5/full/nm0503-491a.html
+-------------729|740-------------
+caught error: Error GETing https://www.jstage.jst.go.jp/article/yakushi/123/3/123_3_107/_article: Can't connect to www.jstage.jst.go.jp:443 at ./getpdffromlink.pl line 99.
+realurl http://www.sciencedirect.com/science/article/pii/S0140673602092887
+-------------732|740-------------
+realurl http://onlinelibrary.wiley.com/doi/10.1002/1097-0258(20001230)19:24%3C3449::AID-SIM648%3E3.0.CO;2-Y/abstract;jsessionid=EDC1609ABCF599BF2C594AE743B6FA73.d02t01
+-------------736|740-------------
+realurl http://link.springer.com/journal/109
+-------------740|740-------------
+http://link.springer.com/content/pdf/10.1007%2Fs11239-013-0875-2 
+http://www.bfs.admin.ch/bfs/portal/fr/index/news/publikationen.Document.132793.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00411-013-0458-9 
+http://link.springer.com/content/pdf/10.1007%2Fs10072-013-1308-x 
+http://genomemedicine.com/content/pdf/gm407.pdf 
+http://hyper.ahajournals.org/content/early/2013/01/21/HYPERTENSIONAHA.111.00331.full.pdf+html 
+http://hyper.ahajournals.org/site/misc/HYP.pdf 
+http://www.nature.com/mp/journal/vaop/ncurrent/pdf/mp2012197a.pdf 
+http://msj.sagepub.com/content/early/2013/01/17/1352458512472752.full.pdf+html 
+http://www.sagepub.com/repository/binaries/LibraryRecForm.pdf 
+http://medlaw.oxfordjournals.org/content/early/2013/01/15/medlaw.fws040.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1002/art.37835/pdf 
+http://www.nature.com/jid/journal/vaop/ncurrent/pdf/jid2012485a.pdf 
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_341_winds_en.pdf 
+http://www.nature.com/ejhg/journal/vaop/ncurrent/pdf/ejhg2012282a.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00423-012-1043-4 
+http://www.biomedcentral.com/bmcinfectdis/content/pdf/1471-2334-13-2.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2334-13-2.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272515&_user=955653&_pii=S1043466612007983&_check=y&_origin=article&_zone=toolbar&_coverDate=2013--28&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzS&md5=3312be1bd2fcda87a31a3b589b668a25&pid=1-s2.0-S1043466612007983-main.pdf 
+http://msj.sagepub.com/content/early/2012/12/20/1352458512470862.full.pdf+html 
+http://pubs.acs.org/userimages/ContentEditor/1219929184336/jprobs-masthead.pdf 
+http://pubs.acs.org/userimages/ContentEditor/1233863085889/jprobs-eab.pdf 
+http://pubs.acs.org/doi/pdf/10.1021/pr3008607 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr3008607 
+http://pubs.acs.org/doi/pdf/10.1046/9999-9999.99999 
+http://www.jbiomedsem.com/content/pdf/2041-1480-3-10.pdf 
+http://ije.oxfordjournals.org/content/early/2012/12/14/ije.dys221.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs00216-012-6602-6 
+http://link.springer.com/content/esm/art:10.1007/s00216-012-6602-6/MediaObjects/216_2012_6602_MOESM1_ESM.pdf 
+http://ije.oxfordjournals.org/content/41/6/1625.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271158&_user=955653&_pii=S0303846712005719&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--04&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkWz&md5=961f6a2eb3c2e12efe5ec37f8aa3feec&pid=1-s2.0-S0303846712005719-main.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0258/homepage/UADHRD012309_150x186_1.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/sim.5685/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=280295&_user=955653&_pii=S1525157812002723&_check=y&_origin=article&_zone=toolbar&_coverDate=2013--28&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkWz&md5=9a437e6bc5963a5f0c425fb285b56c0d&pid=1-s2.0-S1525157812002723-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=15251578&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.isber.org%252Fwg%252Fbs%252Fdocuments%252Fisberbswgliteraturecompilation.pdf 
+http://www.boe.es/boe/dias/2007/07/04/pdfs/A28826-28848.pdf 
+http://www.boe.es/boe/dias/2011/12/02/pdfs/BOE-A-2011-18919.pdf 
+http://www.coe.int/t/dg3/healthbioethic/source/INF(2011)_en.pdf 
+http://www.nature.com/ejhg/journal/vaop/ncurrent/pdf/ejhg2012249a.pdf 
+http://www.biomedcentral.com/bmcresnotes/content/pdf/1756-0500-5-655.pdf 
+http://www.biomedcentral.com/content/pdf/1756-0500-5-655.pdf 
+http://www.ukbiobank.ac.uk/wp-content/uploads/2011/06/Pilot_report.pdf?phpMyAdmin=trmKQlYdjjnQIgJ%2CfAzikMhEnx6 
+http://www.webcitation.org/query.php?url=http://www.ukbiobank.ac.uk/wp-content/uploads/2011/06/Pilot_report.pdf?phpMyAdmin=trmKQlYdjjnQIgJ%2CfAzikMhEnx6&refdoi=10.1186/1756-0500-5-655 
+http://www.biomedcentral.com/bmcgenomics/content/pdf/1471-2164-13-645.pdf 
+http://www.biomedcentral.com/content/download/supplementary/1471-2164-13-645-s1.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2164-13-645.pdf 
+http://www.biomedcentral.com/content/supplementary/1471-2164-13-645-s1.pdf 
+http://www.nature.com/bjc/journal/v108/n1/pdf/bjc2012508a.pdf 
+http://www.ped-rheum.com/content/pdf/1546-0096-10-37.pdf 
+http://circgenetics.ahajournals.org/content/5/6/656.full.pdf+html 
+http://circgenetics.ahajournals.org/site/misc/HCG.pdf 
+http://www.dnagenotek.com/US/pdf/PD-WP-017.pdf 
+http://ije.oxfordjournals.org/content/41/6/1786.full.pdf+html 
+http://aje.oxfordjournals.org/content/176/11/995.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs11427-012-4398-4 
+http://www.biomedcentral.com/bmcpublichealth/content/pdf/1471-2458-12-949.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2458-12-949.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10549-012-2324-x 
+http://onlinelibrary.wiley.com/doi/10.1002/hed.23184/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00216-012-6480-y 
+http://link.springer.com/content/esm/art:10.1007/s00216-012-6480-y/MediaObjects/216_2012_6480_MOESM1_ESM.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/cyt.12024/pdf 
+http://www.dovepress.comcr/../cr_data/peer_reviewer_acknowledgement/Peer Review Acknowledgement for CLEP 2012.pdf 
+http://www.dovepress.comcr/../cr_data/peer_reviewer_acknowledgement/Peer Review Acknowledgement for CLEP 2011.pdf 
+http://ije.oxfordjournals.org/content/early/2012/10/15/ije.dys160.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1002/hep.26092/pdf 
+http://informahealthcare.com/doi/pdf/10.3109/00016489.2012.701018 
+http://informahealthcare.com/doi/pdfplus/10.3109/00016489.2012.701018 
+http://informahealthcare.com/page/userhelp/pdf 
+http://informahealthcare.com/doi/pdf/10.1046/9999-9999.99999 
+http://onlinelibrary.wiley.com/doi/10.1111/bjd.12077/pdf 
+http://jcem.endojournals.org/content/97/12/4383.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272308&_user=955653&_pii=S0006291X12018104&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--19&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkWA&md5=ea66a7287efc127900b9ad2dd4489cd8&pid=1-s2.0-S0006291X12018104-main.pdf 
+http://www.biomedcentral.com/bmcresnotes/content/pdf/1756-0500-5-510.pdf 
+http://biomedcentral.com/bmcresnotes/content/download/supplementary/1756-0500-5-510-s1.pdf 
+http://biomedcentral.com/bmcresnotes/content/download/supplementary/1756-0500-5-510-s2.pdf 
+http://biomedcentral.com/bmcresnotes/content/download/supplementary/1756-0500-5-510-s3.pdf 
+http://biomedcentral.com/bmcresnotes/content/download/supplementary/1756-0500-5-510-s4.pdf 
+http://www.biomedcentral.com/content/pdf/1756-0500-5-510.pdf 
+http://www.biomedcentral.com/content/supplementary/1756-0500-5-510-s1.pdf 
+http://www.biomedcentral.com/content/supplementary/1756-0500-5-510-s2.pdf 
+http://www.biomedcentral.com/content/supplementary/1756-0500-5-510-s3.pdf 
+http://www.biomedcentral.com/content/supplementary/1756-0500-5-510-s4.pdf 
+http://heapol.oxfordjournals.org/content/early/2012/09/15/heapol.czs077.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271972&_user=955653&_pii=S0041134512008147&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--30&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzk&md5=6e4427c33b4fa7cd73f8e240d18a942e&pid=1-s2.0-S0041134512008147-main.pdf 
+http://bioethics.georgetown.edu/pcbe/reports/past_commissions/nbac_biological1.pdf 
+http://www.nature.com/ejhg/journal/vaop/ncurrent/pdf/ejhg2012213a.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1582-4934.2012.01628.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271325&_user=955653&_pii=S0959804912005734&_check=y&_origin=article&_zone=toolbar&_coverDate=2013--31&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkzk&md5=8096da5b1a6ba6ec895600e284482fef&pid=1-s2.0-S0959804912005734-main.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0959804912005734/1-s2.0-S0959804912005734-mmc1.pdf/271325/FULL/S0959804912005734/4f9e66d00d62f9a82a54f3b44b8df552/mmc1.pdf 
+http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=pdf&_acct=C000022002&_version=1&_userid=458507&md5=6befbf00a8f3ef88b28991721b4fd8dd 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271054&_user=955653&_pii=S0165572812002251&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--15&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkzS&md5=f92ba41b29f1d9ce8ce42909143a2818&pid=1-s2.0-S0165572812002251-main.pdf 
+http://neuron.mefst.hr/docs/CMJ/issues/2012/53/4/cmj_53_4_bio_22911534.pdf 
+http://www.cmj.hr/desno.aspx?year=2012&volume=53&number=4&IDKategorija_Broja=12014&pubmed_id=22911534&article_id=12042&pdf_name=cmj_53_4_bio_22911534.pdf 
+http://ije.oxfordjournals.org/content/early/2012/08/09/ije.dys095.full.pdf+html 
+http://jamia.bmj.com/content/19/6/919.full.pdf+html 
+http://jamia.bmj.com/content/19/6/1115.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953612005369&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--30&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkzk&md5=72d10f820c07ff416d08483c7d2b6103&pid=1-s2.0-S0277953612005369-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=02779536&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.publicagenda.org%252Ffiles%252Fpdf%252FReframing%25252520Framing_0.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1789.2012.01341.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272422&_user=955653&_pii=S0748798312009286&_check=y&_origin=article&_zone=toolbar&_coverDate=2013--31&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkzk&md5=628929a1d3a79d00857e7ac3b3f2cbe7&pid=1-s2.0-S0748798312009286-main.pdf 
+http://www.translational-medicine.com/content/pdf/1479-5876-10-150.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs12015-012-9399-y 
+http://www.eortc.be/services/doc/clinical-eu-directive-04-april-01.pdf 
+http://www.ethikrat.org/_english/publications/Opinion_Biobanks-for-research.pdf 
+http://bioethics.georgetown.edu/nbac/human/overvol1.pdf 
+http://unesdoc.unesco.org/images/0013/001312/131204e.pdf#page=27 
+http://www.sweden.gov.se/content/1/c6/02/31/26/f69e36fd.pdf 
+http://stroke.ahajournals.org/content/43/10/2712.full.pdf+html 
+http://stroke.ahajournals.org/site/misc/STR.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272432&_user=955653&_pii=S095461111200193X&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkzS&md5=9d4821f625ace5779889c0ffd3f02cc2&pid=1-s2.0-S095461111200193X-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673612611799&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--20&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzV&md5=e54dae883b3320441d4bd2adfee4d69d&pid=1-s2.0-S0140673612611799-main.pdf 
+http://jcp.bmj.com/content/65/11/1043.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs12160-012-9389-y 
+http://www.iss.it/publ/anna/2012/2/482119.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00428-012-1267-2 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=279954&_user=955653&_pii=S1877959X12000416&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--30&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkWA&md5=2a936eb908ff2ab4847324bf04d87457&pid=1-s2.0-S1877959X12000416-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00103-012-1487-2 
+http://link.springer.com/content/pdf/10.1007%2Fs00103-012-1502-7 
+http://dx.doi.org/ftp://128.95.1.178/tr/2000/12/UW-CSE-00-12-02.pdf 
+http://www.ukbiobank.ac.uk/wp-content/uploads/2011/06/Consent_form.pdf 
+http://www.nature.com/ejhg/journal/v21/n1/pdf/ejhg201299a.pdf 
+http://biospecimens.cancer.gov/bestpractices/2011-NCIBestPractices.pdf 
+http://www.cancerworld.org/pdf/3827_pagina_22-29_cuttingedge.pdf 
+http://biochem118.stanford.edu/Papers/Genome|[percnt]|20Papers/Estonian|[percnt]|20Genome|[percnt]|20Res|[percnt]|20Act.pdf 
+http://www.nature.com/ejhg/journal/v20/n11/pdf/ejhg201296a.pdf 
+http://www.biomedcentral.com/bmcresnotes/content/pdf/1756-0500-5-265.pdf 
+http://www.biomedcentral.com/content/pdf/1756-0500-5-265.pdf 
+http://www.hugo-international.org/img/genomic_2002.pdf 
+http://www.nature.com/ejhg/journal/v21/n1/pdf/ejhg2012104a.pdf 
+http://www.jove.com/pdf/4068 
+http://www.jove.com/pdf-materials/4068 
+http://www.jove.com/pdf/default.aspx?ID=4068 
+http://www.jove.com/files/documents/JoVE_library_license_agreement.pdf 
+http://genomebiology.com/content/pdf/gb-2012-13-5-158.pdf 
+http://www.humgen.org/int/GI/Privacy_in_Canadian_paediatric_Biobanks.pdf 
+http://www.webcitation.org/query.php?url=http://www.humgen.org/int/GI/Privacy_in_Canadian_paediatric_Biobanks.pdf&refdoi=10.1186/gb-2012-13-5-158 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271326&_user=955653&_pii=S0015028212004815&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzS&md5=083b02e671390b7da9643630ed1c4e66&pid=1-s2.0-S0015028212004815-main.pdf 
+http://pubs.acs.org/doi/pdf/10.1021/pr300185k 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr300185k 
+http://pubs.acs.org/doi/pdf/10.1021/pr300796m 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr300796m 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr300273g 
+http://pubs.acs.org/doi/pdf/10.1021/pr300273g 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr3007045 
+http://pubs.acs.org/doi/pdf/10.1021/pr3007045 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr300405y 
+http://pubs.acs.org/doi/pdf/10.1021/pr300405y 
+http://onlinelibrary.wiley.com/doi/10.1002/dmrr.2316/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276834&_user=955653&_pii=S1874391912002734&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--05&view=c&originContentFamily=serial&wchp=dGLzVlS-zSkzV&md5=b26a668e5ce8e6479ea56c4126c5f238&pid=1-s2.0-S1874391912002734-main.pdf 
+http://jme.bmj.com/content/38/9/561.full.pdf+html 
+http://portal.unesco.org/shs/en/files/3860/10759777331Declaration_en.pdf/Declaration_en.pdf 
+http://jmp.oxfordjournals.org/content/37/3/255.full.pdf+html 
+http://www.biomedcentral.com/bmcbioinformatics/content/pdf/1471-2105-13-S4-S5.pdf 
+http://www.biomedcentral.com/content/download/supplementary/1471-2105-13-s4-s5-s1.pdf 
+http://www.biomedcentral.com/content/download/supplementary/1471-2105-13-s4-s5-s2.pdf 
+http://www.biomedcentral.com/content/download/supplementary/1471-2105-13-s4-s5-s3.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2105-13-S4-S5.pdf 
+http://www.biomedcentral.com/content/supplementary/1471-2105-13-s4-s5-s1.pdf 
+http://www.biomedcentral.com/content/supplementary/1471-2105-13-s4-s5-s2.pdf 
+http://www.biomedcentral.com/content/supplementary/1471-2105-13-s4-s5-s3.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271967&_user=955653&_pii=S0002939412001006&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkWz&md5=e9db18e8aee8123cab6c66ad4dcd6dcb&pid=1-s2.0-S0002939412001006-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00592-012-0396-z 
+http://www.em-consulte.com/ajax/modulePdfFlashArticle/article/707782/pdf/mise-en-place-dindicateurs-de-suivi-au-sein-dune-t 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272423&_user=955653&_pii=S1078588412001803&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--30&view=c&originContentFamily=serial&wchp=dGLzVlS-zSkWz&md5=6adef9d1d98d9a65c95f02c405b839a9&pid=1-s2.0-S1078588412001803-main.pdf 
+http://ije.oxfordjournals.org/content/early/2012/04/14/ije.dys066.full.pdf+html 
+http://bmjopen.bmj.com/content/2/2/e000900.full.pdf+html 
+http://bmjopen.bmj.com/content/2/2/e000900.draft-revisions.pdf 
+http://bmjopen.bmj.com/content/2/2/e000900.reviewer-comments.pdf 
+http://group.bmj.com/products/journals/instructions-for-authors/PAW_IFORA.pdf/ 
+http://www.akademiai.com/content/n3r671010vn12551/fulltext.pdf 
+http://www.akademiai.com/content/n3r671010vn12551/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=n3r671010vn12551&size=largest 
+http://public.metapress.com/download/common/MetaPress_Privacy.pdf 
+http://www.biomedcentral.com/bmcpublichealth/content/pdf/1471-2458-12-269.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2458-12-269.pdf 
+http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3016/homepage/PPE_AssociateEditor_Job_Advert_final.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3016.2012.01259.x/pdf 
+http://www.bmj.com/content/344/bmj.e2459.pdf%2Bhtml 
+http://www.bmj.com/highwire/section-pdf/577591/1/1 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673612604048&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--06&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWz&md5=d4d46154353caa259e792e519ad0d8e9&pid=1-s2.0-S0140673612604048-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=01406736&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ukbiobank.ac.uk%252Fwp-content%252Fuploads%252F2011%252F11%252FUK-Biobank-Protocol.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1471-0528.2012.03307.x/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs12687-012-0091-3 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.34414/pdf 
+http://www.nature.com/gim/journal/v14/n4/pdf/gim201223a.pdf 
+http://www.yale.edu/hrpp/resources/docs/IRBPolicy720Incidentalfindings_000.pdf 
+http://www.ukbiobank.ac.uk/wp-content/uploads/2011/05/EGF20082.pdf 
+http://biospecimens.cancer.gov/global/pdfs/NCI_Return_Research_Results_Summary_Final-508.pdf 
+http://gwas.nih.gov/pdf/PTC_for_IRBs_and_Institutions_revised5-31-22.pdf 
+http://www.hugo-international.org/img/statment%20on%20the%20principled%20conduct%20of%20genetics%20research.pdf 
+http://www.cioms.ch/publications/layout_guide2002.pdf 
+http://www.hugo-inte--rnational.org/img/benefit_sharing_2000.pdf 
+http://oba.od.nih.gov/oba/sacghs/reports/SACGHS_LPS_report.pdf 
+http://biospecimens.cancer.gov/global/pdfs/RAND_REPORT.pdf 
+http://www.oecd.org/dataoecd/41/47/44054609.pdf 
+http://www.acceleratedcure.org/repository/downloads/ACP_MTA.pdf 
+http://www.framinghamheartstudy.org/research/forms/dnadatamaterialsdist_agree.pdf 
+https://www.niddkrepository.org/niddkdocs/resources/NIDDK_Sample_Data_Distribution_AgreementFINAL.pdf 
+https://www.nimhgenetics.org/documents/Distribution%20Agreement.pdf 
+http://www.genome.gov/Pages/Research/SequenceMapsBAC/MedicalSequencing/MSPPtstoConsider03.12.08.pdf 
+http://www.hhs.gov/ohrp/archive/nhrpac/documents/nhrpac13.pdf 
+http://humansubjects.energy.gov/doe-resources/files/HumSubjProtect-ResourceBook.pdf 
+http://www.iarc.fr/en/publications/pdfs-online/wrk/wrk2/Standards_ProtocolsBRC.pdf 
+http://aje.oxfordjournals.org/content/175/7/685.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1002/humu.22070/pdf 
+http://www.futuremedicine.com/userimages/ContentEditor/1352108500993/FSG_Catalogue_2013.pdf 
+http://www.futuremedicine.com/doi/pdf/10.2217/fca.12.3 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/fca.12.3 
+http://www.futuremedicine.com/doi/pdf/10.2217/fca.12.22 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/fca.12.22 
+http://www.futuremedicine.com/doi/pdf/10.2217/fca.12.10 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/fca.12.10 
+http://www.futuremedicine.com/doi/pdf/10.2217/fca.11.85 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/fca.11.85 
+http://www.futuremedicine.com/doi/pdf/10.2217/fca.11.68 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/fca.11.68 
+http://www.futuremedicine.com/doi/pdf/10.1046/9999-9999.99999 
+http://www.ukbiobank.ac.uk/docs/IntegratedPilotReport.pdf 
+http://www.genome.gov/Pages/About/OD/ReportsPublications/PotentialUSCohort.pdf 
+http://aje.oxfordjournals.org/content/175/9/859.full.pdf+html 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-090711-163834 
+javascript:newWindow('http://www.bristol.ac.uk/alspac/documents/divulgingbiomed.pdf') 
+javascript:newWindow('http://www.bioethics-singapore.org/uploadfile/60104%20PMHT%20Research.pdf') 
+javascript:newWindow('http://www.gezondheidsraad.nl/sites/default/files/201015E.pdf') 
+javascript:newWindow('http://www.icgc.org/files/icgc/ICGC_April_29_2008_en.pdf') 
+javascript:newWindow('http://www.marshfieldclinic.org/chg/pages/Proxy.aspx?Content=MCRF-Centers-CHG-Core-Units-PMRP-consent-form-3-24-10.1.pdf') 
+javascript:newWindow('http://biospecimens.cancer.gov/global/pdfs/NCI_Return_Research_Results_Summary_Final-508.pdf') 
+javascript:newWindow('http://ontariohealthstudy.ca/files/B4%20Consent%20Form%20ENG.pdf') 
+javascript:newWindow('http://www.p3g.org/secretariat/news/P3G%20Return%20of%20Results.pdf') 
+javascript:newWindow('http://www.ukbiobank.ac.uk/wp-content/uploads/2011/05/EGF20082.pdf') 
+javascript:newWindow('http://www.ukbiobank.ac.uk/wp-content/uploads/2011/11/Access_Procedures_Nov_2011.pdf') 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-082509-141711 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-082410-101454 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.nutr.28.061807.155344 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-082908-150133 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.genom.7.080505.115721 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.genet.35.102401.091453 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.genom.2.1.401 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.me.28.020177.000355 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.me.29.020178.000301 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-090711-163825 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-090711-163855 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-082410-101510 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-090711-163800 
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-090711-163741 
+http://tidsskriftet.no/pdf/pdf2012/540-2.pdf 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3385442/pdf/ehp.1104522.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271228&_user=955653&_pii=S1078143912000464&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--01&view=c&originContentFamily=serial&wchp=dGLbVlt-zSkWz&md5=241b5d4e9de73c81c6975b046f013288&pid=1-s2.0-S1078143912000464-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10561-012-9298-0 
+http://www.isber.org/Pubs/BestPractices2008.pdf 
+http://www.ukbiobank.ac.uk/docs/UKBProtocolfinal.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272363&_user=955653&_pii=S000326971200084X&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--15&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkzV&md5=387878a7e87a08273de26bae2259685b&pid=1-s2.0-S000326971200084X-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276220&_user=955653&_pii=S0929664611001537&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkzk&md5=f8ed5fb6d27f362613060770ca2cc295&pid=1-s2.0-S0929664611001537-main.pdf 
+http://www.akademiai.com/content/cr4xk7326552p710/fulltext.pdf 
+http://www.akademiai.com/content/cr4xk7326552p710/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=cr4xk7326552p710&size=largest 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272854&_user=955653&_pii=S0033350611003647&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLzVlt-zSkzV&md5=83f27ca96ee2e11272804cdd31ce9804&pid=1-s2.0-S0033350611003647-main.pdf 
+http://aje.oxfordjournals.org/content/175/10/1021.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs12529-012-9222-9 
+http://www.revistanefrologia.comrevistas/P1-E532/P1-E532-S3388-A11121.pdf 
+http://www.danmedj.dkjavascript: { var newwin = 
+window.open("/portal/pls/portal/DANMEDBUL.COUNTMOSTREAD_PORTLET.count_file?p_filepath=/portal/page/po
+rtal/danmedj.dk/dmj_forside/PAST_ISSUE/2012/DMJ_2012_02/B4403/B4403.pdf&pTitle= 
+Sudden cardiac death in young Danes
+", 
+"Subjects4", "RESIZABLE=YES,SCROLLBARS=YES,WIDTH=700,HEIGHT=550,LEFT=200,TOP=70"); }  
+http://www.nature.com/nprot/journal/v7/n2/pdf/nprot.2011.447.pdf 
+http://www.nature.com/nprot/journal/v7/n2/extref/nprot.2011.447-S1.pdf 
+http://www.nature.com/nprot/journal/v7/n2/extref/nprot.2011.447-S2.pdf 
+http://www.nature.com/nprot/journal/v7/n2/extref/nprot.2011.447-S3.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs13353-012-0082-4 
+http://www.ukbiobank.ac.uk/docs/UKBProtocol.pdf 
+http://ec.europa.eu/research/conferences/2004/genetic/pdf/recommendations_en.pdf 
+http://www.phgen.nrw.de/typo3/fileadmin/downloads/ManualVersand_Bellagio_Report-230106.pdf 
+http://www.nature.com/nature/journal/v481/n7382/pdf/481443c.pdf 
+http://erj.ersjournals.com/content/40/1/177.full.pdf+html 
+http://www.nature.com/gim/journal/v14/n2/pdf/gim0b013e3182310ba0a.pdf 
+http://www.nature.com/gim/journal/v14/n2/pdf/gim0b013e31822e578fa.pdf 
+http://www.genomecanada.ca/medias/pdf/en/GPS-Policy-Directions-Brief.pdf 
+http://ajcp.ascpjournals.org/content/137/2/277.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=273470&_user=955653&_pii=S0022534711054711&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkWA&md5=df6bcddc00528591f349e8c8c0a921c6&pid=1-s2.0-S0022534711054711-main.pdf 
+http://informahealthcare.com/doi/pdf/10.3109/09513590.2011.613966 
+http://informahealthcare.com/doi/pdfplus/10.3109/09513590.2011.613966 
+http://link.springer.com/content/pdf/10.1007%2Fs12253-011-9492-6 
+http://link.springer.com/content/pdf/10.1007%2Fs00228-011-1171-8 
+http://ije.oxfordjournals.org/content/40/6/1652.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs12687-011-0070-0 
+http://www.nature.com/ejhg/journal/v20/n3/pdf/ejhg2011216a.pdf 
+http://www.futuremedicine.com/doi/pdf/10.2217/epi.11.70 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/epi.11.70 
+http://www.futuremedicine.com/doi/pdf/10.2217/ebo.11.278 
+http://www.futuremedicine.com/doi/pdf/10.2217/epi.11.91 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/epi.11.91 
+http://www.futuremedicine.com/doi/pdf/10.2217/epi.11.113 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/epi.11.113 
+http://www.futuremedicine.com/doi/pdf/10.2217/epi.12.1 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/epi.12.1 
+http://www.futuremedicine.com/doi/pdf/10.2217/epi.10.59 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/epi.10.59 
+http://link.springer.com/content/pdf/10.1007%2Fs12687-011-0052-2 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271176&_user=955653&_pii=S0920996411005603&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--29&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkzS&md5=035fc7cebd6a5e94df6ff24d7ee18e20&pid=1-s2.0-S0920996411005603-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs13277-011-0256-4 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915011010227&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkzV&md5=871a1bff67bab8182ad6051e7637ed03&pid=1-s2.0-S0021915011010227-main.pdf 
+http://www.clinsci.org/cs/122/0421/1220421.pdf 
+http://link.springer.com/content/pdf/10.1007%2F978-1-60327-216-2_5 
+http://www.biomedcentral.com/bmcophthalmol/content/pdf/1471-2415-11-32.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2415-11-32.pdf 
+http://www.who.int/healthinfo/global_burden_disease/GBD_report_2004update_full.pdf 
+http://www.webcitation.org/query.php?url=http://www.who.int/healthinfo/global_burden_disease/GBD_report_2004update_full.pdf&refdoi=10.1186/1471-2415-11-32 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.34304/pdf 
+http://www.nature.com/nm/journal/v17/n11/pdf/nm1111-1326a.pdf 
+http://www.nature.com/bjc/journal/v106/n2/pdf/bjc2011461a.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs11019-011-9353-9 
+http://www.regjeringen.no/Rpub/NOU/20012001/019/PDFA/NOU200120010019000DDDPDFA.pdf 
+http://www.regjeringen.no/upload/HOD/HRA/Helseforskning/Helseforskningsloven%20-%20ENGELSK%20endelig%2029%2006%2009.pdf 
+http://researcharchive.vuw.ac.nz/bitstream/handle/10063/297/thesis.pdf?sequence=2 
+http://www.ukbiobank.ac.uk/docs/EGF20082.pdf 
+http://www.egcukbiobank.org.uk/assets/wtx052208.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271250&_user=955653&_pii=S002072921100498X&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--31&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzS&md5=f150c2c1c82d3d90d6ac9c181a812385&pid=1-s2.0-S002072921100498X-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00207292&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.marshfieldclinic.org%252Fchg%252Fpages%252FProxy.aspx%253FContent%253DMCRF-Centers-PMRP-Pubs-McCartyMethodsCHG0522122553.1.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00207292&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.marshfieldclinic.org%252Fchg%252Fpages%252Fproxy.aspx%253Fcontent%253Dmcrf-centers-pmrp-pubs-mccartypme.1.pdf 
+http://www.nature.com/nature/journal/v478/n7369/pdf/478312a.pdf 
+http://www.esf.org/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/be_user/research_areas/emrc/science_policy_briefings/SPB32Biobanking\[1\].pdf\&t\=1317738152\&hash\=1c78c39d268c70ae7bf41113204e43b1e6ea5259 
+http://www.nature.com/nrg/journal/v12/n11/pdf/nrg3083.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ajhb.21206/pdf 
+http://www.icmje.org/coi_disclosure.pdf 
+http://www.bmj.com/content/343/bmj.d5647.pdf%2Bhtml 
+http://www.bmj.com/highwire/section-pdf/447544/8/1 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1423-0410.2011.01553.x/pdf 
+http://database.oxfordjournals.org/content/2011/bar043.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2362.2011.02587.x/pdf 
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_341_winds_en.pdf. 
+http://unesdoc.unesco.org/images/0012/001229/122990eo.pdf 
+http://jme.bmj.com/content/38/6/351.full.pdf+html 
+http://jme.bmj.com/content/38/6/342.full.pdf+html 
+http://jme.bmj.com/content/38/6/325.full.pdf+html 
+http://jme.bmj.com/content/38/6/347.full.pdf+html 
+http://www.jclinbioinformatics.com/content/pdf/2043-9113-1-24.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10728-011-0194-8 
+http://www.dentistryhasaheart.com/PDF/HHD_attitudes_of_dentists_on_blood_screening.pdf 
+http://adr.sagepub.com/content/23/4/353.full.pdf+html 
+http://www.nature.com/tpj/journal/v13/n1/pdf/tpj201140a.pdf 
+http://www.nature.com/ng/journal/v43/n10/pdf/ng.939.pdf 
+http://www.nature.com/ng/journal/v43/n10/extref/ng.939-S1.pdf 
+http://care.diabetesjournals.org/content/34/10/2317.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953611004709&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkzk&md5=579b03b5446c3414861f195a8e732a9a&pid=1-s2.0-S0277953611004709-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272411&_user=955653&_pii=S1472979211001314&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--30&view=c&originContentFamily=serial&wchp=dGLzVlt-zSkWA&md5=3252559829778cf1914a64e607be56ec&pid=1-s2.0-S1472979211001314-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=14729792&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwhqlibdoc.who.int%252Fpublications%252F2010%252F9789241598736b_eng.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10728-011-0180-1 
+http://www.ukbiobank.ac.uk/docs/20071011_EGF_Version_3_1_0October_2007withTR.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2605.2011.01208.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271057&_user=955653&_pii=S0167527311007479&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--02&view=c&originContentFamily=serial&wchp=dGLbVlS-zSkWA&md5=0a8a6e6433c195862ba1791c0a4c001a&pid=1-s2.0-S0167527311007479-main.pdf 
+http://www.who.int/hiv/pub/paediatric/paed-prelim-summary.pdf 
+http://www.isciii.es/htdocs/centros/epidemiologia/pdf/SPNS_Informe_semestral.pdf 
+http://www.unaids.org/documents/20101123_GlobalReport_em.pdf 
+http://whqlibdoc.who.int/publications/2010/9789241500395_eng.pdf 
+http://jac.oxfordjournals.org/content/66/10/2362.full.pdf+html 
+http://www.nature.com/nature/journal/v475/n7357/pdf/475454d.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00277-011-1293-1 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271328&_user=955653&_pii=S1047279711001797&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--30&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkzV&md5=0bdb9100700dcf831d736085a08c06a5&pid=1-s2.0-S1047279711001797-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=10472797&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ipaq.ki.se%252Fscoring.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271073&_user=955653&_pii=S0002914911017826&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--15&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkzV&md5=93c4e8feddc4e2eb6e5afcae0eb2e8ad&pid=1-s2.0-S0002914911017826-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00439-011-1065-y 
+http://www.ukbiobank.ac.uk/docs/ethics_work.pdf 
+http://www.egcukbiobank.org.uk/assets/wtx048967.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00439-011-1066-x 
+http://www.humgen.umontreal.ca/int/GE/en/2008-2.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00439-011-1068-8 
+http://link.springer.com/content/pdf/10.1007%2Fs10728-011-0181-0 
+http://europa.eu.int/comm/european_group_ethics/docs/avis19_en.pdf 
+http://www.rcog.org.uk/files/rcog-corp/uploaded-files/SAC2UmbilicalCordBanking2006.pdf 
+http://www.wma.net/en/30publications/10policies/b3/17c.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272423&_user=955653&_pii=S1078588411003649&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkWz&md5=11226ed5ec934046b895eb3062349f24&pid=1-s2.0-S1078588411003649-main.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1078588411003649/1-s2.0-S1078588411003649-mmc3.pdf/272423/FULL/S1078588411003649/e0217f22bea18fd93eef3e16ccde8563/mmc3.pdf 
+http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=pdf&_acct=C000034998&_version=1&_userid=650414&md5=6b1e54efaa0616c29b1e13df6a94f52b 
+http://link.springer.com/content/pdf/10.1007%2Fs00439-011-1042-5 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953611003364&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkWz&md5=a4bcc896e26bf2f6f1660b72110320c8&pid=1-s2.0-S0277953611003364-main.pdf 
+http://www.biomedcentral.com/bmcgenet/content/pdf/1471-2156-12-58.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2156-12-58.pdf 
+http://www.akademiai.com/content/p42g1815k36180w3/fulltext.pdf 
+http://www.akademiai.com/content/p42g1815k36180w3/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=p42g1815k36180w3&size=largest 
+http://link.springer.com/content/pdf/10.1007%2Fs00439-011-1019-4 
+http://www.cartagene.qc.ca/images/stories/cartagene%20management%20policy%20dec09.pdf 
+http://www.ethikrat.org/files/der_opinion_human-biobanks.pdf 
+http://ec.europa.eu/research/biosociety/pdf/norwegian_act_biobanks.pdf 
+http://www.regeringen.se/content/1/c6/15/65/67/d5441333.pdf 
+http://lifegene.ki.se/ethical_issues/documents/090331LifeGeneEthicsPolicyv32.pdf 
+http://www.ukbiobank.ac.uk/docs/EGF_Version2_July%2006%20most%20uptodate.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271330&_user=955653&_pii=S0009898111003494&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--18&view=c&originContentFamily=serial&wchp=dGLbVlS-zSkWA&md5=1c91962e4e557b6efb1d2cbf1fb23c22&pid=1-s2.0-S0009898111003494-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1398-9995.2011.02644.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.2011.10474.x/pdf 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.11.24 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.11.24 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.12.179 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.12.179 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.10.27 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.10.27 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.11.121 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.11.121 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.10.185 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.10.185 
+http://www.futuremedicine.com/doi/pdf/10.1517/14622416.6.3.303 
+http://www.futuremedicine.com/doi/pdfplus/10.1517/14622416.6.3.303 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953611002796&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkzk&md5=737968084595bf4fb16a09df45a016a6&pid=1-s2.0-S0277953611002796-main.pdf 
+http://biospecimens.cancer.gov/global/pdfs/NCI_Best_Practices_060507 
+http://jncimono.oxfordjournals.org/content/2011/42/46.full.pdf+html 
+http://jncimono.oxfordjournals.org/content/2011/42/41.full.pdf+html 
+http://www.ct.gov/dph/LIB/dph/Genomics/BiobanksPolicyBrief.pdf 
+http://www-935.ibm.com/services/us/gbs/bus/pdf/g510-6640-00_biomarker.pdf 
+http://jncimono.oxfordjournals.org/content/2011/42/24.full.pdf+html 
+http://jncimono.oxfordjournals.org/content/2011/42/16.full.pdf+html 
+http://jncimono.oxfordjournals.org/content/2011/42/8.full.pdf+html 
+http://www.whitehouse.gov/files/documents/ostp/PCAST/pcast_report_v2.pdf 
+http://jncimono.oxfordjournals.org/content/2011/42/1.full.pdf+html 
+http://www.translational-medicine.com/content/pdf/1479-5876-9-91.pdf 
+http://www.illumina.com/documents/products/datasheets/datasheet_humanomni1_quad.pdf 
+http://www.webcitation.org/query.php?url=http://www.illumina.com/documents/products/datasheets/datasheet_humanomni1_quad.pdf&refdoi=10.1186/1479-5876-9-91 
+http://www.illumina.com/Documents/products/technotes/technote_infinium_genotyping_data_analysis.pdf 
+http://www.webcitation.org/query.php?url=http://www.illumina.com/Documents/products/technotes/technote_infinium_genotyping_data_analysis.pdf&refdoi=10.1186/1479-5876-9-91 
+http://www.nature.com/jhh/journal/v26/n8/pdf/jhh201158a.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0215/homepage/IJC_Lecture_Poster.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ijc.26200/pdf 
+http://www.biomedcentral.com/bmcpublichealth/content/pdf/1471-2458-11-345.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2458-11-345.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33896/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953611002152&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--30&view=c&originContentFamily=serial&wchp=dGLzVlS-zSkWz&md5=d9c2a21248f424ace76dfd493d7a75c6&pid=1-s2.0-S0277953611002152-main.pdf 
+http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1537-2995/homepage/Blood_Bank_Director_ad_-_June_2010_doc_v2.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1537-2995.2010.03022.x/pdf 
+http://pubs.acs.org/userimages/ContentEditor/1219929325129/esthag-masthead.pdf 
+http://pubs.acs.org/doi/pdf/10.1021/es2004254 
+http://pubs.acs.org/doi/pdfplus/10.1021/es2004254 
+http://pubs.acs.org/doi/pdfplus/10.1021/es901430n 
+http://pubs.acs.org/doi/pdf/10.1021/es901430n 
+http://pubs.acs.org/doi/pdfplus/10.1021/es1014289 
+http://pubs.acs.org/doi/pdf/10.1021/es1014289 
+http://pubs.acs.org/doi/pdfplus/10.1021/es202329f 
+http://pubs.acs.org/doi/pdf/10.1021/es202329f 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1754.2011.02072.x/pdf 
+http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9566/homepage/SHIL_New_Editors_Statement.pdf 
+http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9566/homepage/SHIL_OOF.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2011.01348.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272386&_user=955653&_pii=S1096719211000941&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzV&md5=0dd71f14d32fe6ed0ab8a10bb27deb0a&pid=1-s2.0-S1096719211000941-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276220&_user=955653&_pii=S0929664611600211&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkWA&md5=ca5d7ddc99fcff52c536ae501821fdc2&pid=1-s2.0-S0929664611600211-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs12471-010-0060-6 
+http://www.akademiai.com/content/e006564r4661j17k/fulltext.pdf 
+http://www.akademiai.com/content/e006564r4661j17k/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=e006564r4661j17k&size=largest 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=277422&_user=955653&_pii=S1934148210013584&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzS&md5=11e78c8213e378cbbf4984d0bbea2328&pid=1-s2.0-S1934148210013584-main.pdf 
+http://www.ukbiobank.ac.uk/docs/BIOINFOBK14920410.pdf 
+http://www.nature.com/jhg/journal/v56/n5/pdf/jhg201119a.pdf 
+http://www.biomedcentral.com/bmcmedgenet/content/pdf/1471-2350-12-34.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2350-12-34.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272521&_user=955653&_pii=S0022347610011480&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkWA&md5=94d38d22321d1629331007a373c282b6&pid=1-s2.0-S0022347610011480-main.pdf 
+http://arthritis-research.com/content/pdf/ar3258.pdf 
+http://atvb.ahajournals.org/content/31/5/1215.full.pdf+html 
+http://atvb.ahajournals.org/site/misc/ATV.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S002191501100075X&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--30&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkWA&md5=7050547ffcd4e3a0655c5c8e194a56c4&pid=1-s2.0-S002191501100075X-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/dmrr.1178/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276834&_user=955653&_pii=S1874391911000303&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--01&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkzk&md5=8a75fde452159959e20b76a0e4c3bfbc&pid=1-s2.0-S1874391911000303-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10439-011-0253-1 
+http://arthritis-research.com/content/pdf/ar3237.pdf 
+http://www.nutritionj.com/content/pdf/1475-2891-10-13.pdf 
+http://sjp.sagepub.com/content/39/2/203.full.pdf+html?frame=header 
+http://sjp.sagepub.com/content/39/2/203.full.pdf 
+http://sjp.sagepub.com/content/39/2/203.full.pdf+html?frame=sidebar 
+http://www.nature.com/jhg/journal/v56/n3/pdf/jhg2010169a.pdf 
+http://www.oecd.org/dataoecd/7/13/38777417.pdf 
+http://biospecimens.cancer.gov/global/pdfs/NCI_Best_Practices_060507.pdf 
+http://erj.ersjournals.com/content/37/1/204.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271135&_user=955653&_pii=S0306453010003045&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkWb&md5=9220f77c3dee6975d47ca73dbbd70ee7&pid=1-s2.0-S0306453010003045-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2125.2010.03789.x/pdf 
+http://bioinformatics.oxfordjournals.org/content/27/4/589.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915010009640&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--28&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkzk&md5=765bfbdc28a11accab12d778dd58f225&pid=1-s2.0-S0021915010009640-main.pdf 
+http://pdf.medrang.co.kr/Kjlm/2010/030/Kjlm030-06-28.pdf 
+http://www.coloproctol.org/Synapse/Data/PDFData/1009JKSC/jksc-26-316.pdf 
+http://www.asterand.com/asterand/human_tissues/Asterand_RIN.pdf 
+http://www.nature.com/tpj/journal/v11/n3/pdf/tpj201086a.pdf 
+http://www.futuremedicine.com/doi/pdf/10.2217/bmm.10.104 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/bmm.10.104 
+http://www.futuremedicine.com/doi/pdf/10.2217/bmm.12.78 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/bmm.12.78 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.11.145 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.11.145 
+http://www.futuremedicine.com/doi/pdf/10.2217/14622416.9.6.773 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/14622416.9.6.773 
+http://www.futuremedicine.com/doi/pdf/10.2217/14622416.6.6.639 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/14622416.6.6.639 
+http://www.futuremedicine.com/doi/pdf/10.2217/bmm.10.66 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/bmm.10.66 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271161&_user=955653&_pii=S1386505610002145&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkWz&md5=3013eda8b10d8aa688074845ffc6521c&pid=1-s2.0-S1386505610002145-main.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc1.pdf/271161/FULL/S1386505610002145/8ed38b5977d3b314ccafd18f392a7f58/mmc1.pdf 
+http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=pdf&_acct=C000067215&_version=1&_userid=5422747&md5=17d4a5088a327f16bb47ae2946d5be6f 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc3.pdf/271161/FULL/S1386505610002145/ecee6aa21f0d31a4993bbedae1fa3ea1/mmc3.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc5.pdf/271161/FULL/S1386505610002145/adc0ccda01ec8f5087dca7202ae5f72e/mmc5.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc6.pdf/271161/FULL/S1386505610002145/ab444ef1ca29b980544ed8a9f94d276c/mmc6.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc7.pdf/271161/FULL/S1386505610002145/01a74a0f2beac360dfb95631d33927c3/mmc7.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc8.pdf/271161/FULL/S1386505610002145/d7de4544d9c6feca8e9d19326cadb4d2/mmc8.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc9.pdf/271161/FULL/S1386505610002145/87f7b55468a22705095fe4b293936fc0/mmc9.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc10.pdf/271161/FULL/S1386505610002145/f6cc3b3979d2c8895fdc1bfd1a5f2eb1/mmc10.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc11.pdf/271161/FULL/S1386505610002145/cb2967679a58e5b6c68e8c6c993dbb67/mmc11.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc12.pdf/271161/FULL/S1386505610002145/db16490cb9d35c6714c0fe2e5f1ef19f/mmc12.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1386505610002145/1-s2.0-S1386505610002145-mmc13.pdf/271161/FULL/S1386505610002145/265d3d3e22706b1cb122b42169d18900/mmc13.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.openehr.org%252Fpublications%252Farchetypes%252Farchetypes_beale_web_2000.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.openehr.org%252Fsvn%252Fspecification%252FTRUNK%252Fpublishing%252Farchitecture%252Foverview.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.openehr.org%252Fsvn%252Fspecification%252FTRUNK%252Fpublishing%252Farchitecture%252Fam%252Farchetype_principles.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.openehr.org%252Fpublications%252Farchetypes%252Ftemplates_and_archetypes_heard_et_al.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ehr.chime.ucl.ac.uk%252Fdownload%252Fattachments%252F3833859%252FNHSCFH_13606-Pilot-Final-Rpt_v1-0.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fdetailedclinicalmodels.org%252Fdocuments%252FNHS_CFH_13606InvestigationRpt_v1-0.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.openehr.org%252Freleases%252F1.0.1%252Farchitecture%252Fam%252Fadl.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13865056&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.openehr.org%252Fsvn%252Fspecification%252FTRUNK%252Fpublishing%252Farchitecture%252Fam%252Fadl1.5.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271328&_user=955653&_pii=S1047279710003480&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkzk&md5=3c1b6377ecfaf1b10fd0d12555027df8&pid=1-s2.0-S1047279710003480-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2010.03948.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ijc.25786/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271308&_user=955653&_pii=S1054880710001419&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkzV&md5=34f4b21d00ce75be9506e9ec53fa9cf2&pid=1-s2.0-S1054880710001419-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2796.2010.02304.x/pdf 
+http://www.cnrb.it/loghi/telethonlinee%20guida%20biobanche%20genetiche%20.pdf 
+http://www.medicitalia.it/public/uploadedfiles/file/CodiceDeontologiaMedica.pdf 
+http://www.fhi.org/training/fr/retc/pdf_files/cioms.pdf 
+http://jme.bmj.com/content/36/12/775.full.pdf+html 
+http://jme.bmj.com/content/37/3/179.full.pdf+html 
+http://www.em-consulte.com/ajax/modulePdfFlashArticle/article/270742/pdf/lexperience-de-la-tumorotheque-du-chu-de-nice-pour 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2010.03899.x/pdf 
+http://www.nature.com/tpj/journal/v11/n2/pdf/tpj201081a.pdf 
+http://informahealthcare.com/doi/pdf/10.3109/00016349.2010.500368 
+http://informahealthcare.com/doi/pdfplus/10.3109/00016349.2010.500368 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_23 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_21 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_16 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_15 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_13 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_12 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_7 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_6 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_5 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_3 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_2 
+http://link.springer.com/content/pdf/10.1007%2F978-1-59745-423-0_1 
+http://www.law.ed.ac.uk/ahrb/script-ed/issue2/iceland.pdf 
+http://biospecimens.cancer.gov/global/pdfs/CaOSumm.pdf 
+http://grants.nih.gov/grants/gwas/gwas_ptc.pdf 
+http://www.genome.gov/Pages/PolicyEthics/Informed%20Consent/eMERGEModelLanguage2009-12-15.pdf 
+http://eurpub.oxfordjournals.org/content/22/1/139.full.pdf+html 
+http://genomemedicine.com/content/pdf/gm193.pdf 
+http://rheumatology.oxfordjournals.org/content/50/1/137.full.pdf+html 
+http://archpsyc.jamanetwork.com/data/Journals/PSYCH/5301/yoa05026_889_894.pdf 
+http://archpsyc.jamanetwork.com/data/Journals/PSYCH/5301/YWE05018_09_06_10.pdf 
+http://jamanetwork.com/data/pdfs/ads/adPrinciples.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33617/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ajhb.21067/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271328&_user=955653&_pii=S1047279710001614&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--31&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkWA&md5=56bc993391e396ff85feb6d4d053edb6&pid=1-s2.0-S1047279710001614-main.pdf 
+http://www.akademiai.com/content/x9hu540x875207x8/fulltext.pdf 
+http://www.akademiai.com/content/x9hu540x875207x8/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=x9hu540x875207x8&size=largest 
+http://care.diabetesjournals.org/content/33/11/2342.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271328&_user=955653&_pii=S1047279710001547&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--31&view=c&originContentFamily=serial&wchp=dGLbVlS-zSkWz&md5=73093ee6c16c504a7f39c49a1d9f3ace&pid=1-s2.0-S1047279710001547-main.pdf 
+http://www.biomedcentral.com/bmcpublichealth/content/pdf/1471-2458-10-479.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2458-10-479.pdf 
+http://www.hcsp.fr/docspdf/avisrapports/hcspr20091111_sisp.pdf 
+http://www.webcitation.org/query.php?url=http://www.hcsp.fr/docspdf/avisrapports/hcspr20091111_sisp.pdf&refdoi=10.1186/1471-2458-10-479 
+http://link.springer.com/content/pdf/10.1007%2Fs10916-009-9402-6 
+http://www.intersystems.com/ensemble/whitepapers/pdf/ensemble_wp_healthcare.pdf 
+http://public.metapress.com/download/profiles/iospress/pay-per-view-copyright.pdf 
+http://iospress.metapress.com/content/h851k17711172735/fulltext.pdf 
+http://rheumatology.oxfordjournals.org/content/50/1/32.full.pdf+html 
+http://www.mcponline.org/content/9/11/2497.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs10897-010-9305-1 
+http://www.nature.com/ejhg/journal/v18/n11/pdf/ejhg2010106a.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10561-010-9190-8 
+http://www.datenschutz-berlin.de/attachments/140/Jahresbericht_2006.pdf 
+http://www.biomedcentral.com/bmcgenomics/content/pdf/1471-2164-11-426.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2164-11-426.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271328&_user=955653&_pii=S104727971000116X&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzV&md5=71d5a5cda0ba74d3394a7a1d133c73f5&pid=1-s2.0-S104727971000116X-main.pdf 
+http://www.biomedcentral.com/bmcnephrol/content/pdf/1471-2369-11-14.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2369-11-14.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271176&_user=955653&_pii=S0920996410013654&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--30&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWb&md5=f17837164028e16685b13ff32858d94b&pid=1-s2.0-S0920996410013654-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2184.2010.00687.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272432&_user=955653&_pii=S0954611110002829&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--30&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzk&md5=ab3bec9a766e3898f47213a5fb1e2b5f&pid=1-s2.0-S0954611110002829-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=09546111&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.jhucct.com%252Fshhs%252Fmanual%252Fforms%252Fsh%252Fshhshq2.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=09546111&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.diabetes.com.au%252Fpdf%252Fobesity_report.pdf 
+http://jech.bmj.com/content/65/6/522.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1399-0004.2010.01431.x/pdf 
+http://informahealthcare.com/doi/pdf/10.3109/0284186X.2010.496792 
+http://informahealthcare.com/doi/pdfplus/10.3109/0284186X.2010.496792 
+http://www.nature.com/ejhg/journal/v18/n11/pdf/ejhg201093a.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272407&_user=955653&_pii=S0002870310001791&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--30&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkWz&md5=ab7ac025434587285fc1de4c70f35b1a&pid=1-s2.0-S0002870310001791-main.pdf 
+http://informahealthcare.com/doi/pdf/10.3109/03009741003742763 
+http://informahealthcare.com/doi/pdfplus/10.3109/03009741003742763 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1399-5448.2010.00660.x/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10654-010-9466-0 
+http://www.biomedcentral.com/bmcpublichealth/content/pdf/1471-2458-10-270.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2458-10-270.pdf 
+http://scv.sagepub.com/content/14/2/148.full.pdf+html?frame=header 
+http://scv.sagepub.com/content/14/2/148.full.pdf 
+http://scv.sagepub.com/content/14/2/148.full.pdf+html?frame=sidebar 
+http://pubs.acs.org/doi/pdf/10.1021/pr100234w 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr100234w 
+http://pubs.acs.org/doi/pdf/10.1021/pr300560y 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr300560y 
+http://pubs.acs.org/doi/pdf/10.1021/pr3005474 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr3005474 
+http://pubs.acs.org/doi/pdf/10.1021/pr201005t 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr201005t 
+http://pubs.acs.org/doi/pdf/10.1021/ac300006b 
+http://pubs.acs.org/doi/pdfplus/10.1021/ac300006b 
+http://pubs.acs.org/doi/pdf/10.1021/pr201043u 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr201043u 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr200019m 
+http://pubs.acs.org/doi/pdf/10.1021/pr200019m 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr900748n 
+http://pubs.acs.org/doi/pdf/10.1021/pr900748n 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1752-8062.2010.00175.x/pdf 
+http://www.nature.com/jhh/journal/v25/n3/pdf/jhh201044a.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-3016.2009.01078.x/pdf 
+http://www.fasebj.org/content/24/9/3135.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276895&_user=955653&_pii=S0002929710001461&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--09&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkzV&md5=5d504a3d3e68b9a5a788eeb27f53780c&pid=1-s2.0-S0002929710001461-main.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0002929710001461/1-s2.0-S0002929710001461-mmc1.pdf/276895/FULL/S0002929710001461/2f8718d782fd0d51aa850639a270de05/mmc1.pdf 
+http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=pdf&_acct=C000053195&_version=1&_userid=1508387&md5=d65370a559e4a1c4088dcd1e46d6a632 
+http://bioinformatics.oxfordjournals.org/content/26/9/1205.full.pdf+html 
+https://www.fstrf.org/apps/cfmx/apps/ldms/manual/5.8/AppendixA_codes.pdf 
+http://cebp.aacrjournals.org/content/19/4/1004.full.pdf+html 
+http://www.nature.com/ejhg/journal/v18/n7/pdf/ejhg201016a.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00428-010-0889-5 
+http://link.springer.com/content/pdf/10.1245%2Fs10434-010-0959-6 
+http://www.liebertpub.com/mcontent/files/2012%20MALPubCat.pdf 
+http://online.liebertpub.com/doi/pdf/10.1089/aid.2009.0122 
+http://online.liebertpub.com/doi/pdfplus/10.1089/aid.2009.0122 
+http://online.liebertpub.com/doi/pdf/10.1046/9999-9999.99999 
+/action/clickThrough?id=1948&url=http%3A%2F%2Fwww.liebertpub.com%2Fmcontent%2Ffiles%2F2012%2520MALPubCat.pdf&loc=%2Fdoi%2Fabs%2F10.1089%2Faid.2009.0122&pubId=40169729 
+http://www.folkhalsoguiden.se/upload/Psykisk%20H%c3%a4lsa/PARTs%20tekniska%20rapport.pdf 
+http://jme.bmj.com/content/36/2/93.full.pdf+html 
+http://www.rsc.org/suppdata/mb/b9/b912078e/b912078e.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953609008041&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkWA&md5=98a593d16d113812c3a6575ebab3ac20&pid=1-s2.0-S0277953609008041-main.pdf 
+http://informahealthcare.com/doi/pdf/10.3109/00365510903527838 
+http://informahealthcare.com/doi/pdfplus/10.3109/00365510903527838 
+http://jn.nutrition.org/content/140/3/522.full.pdf+html 
+/external-ref?link_type=ARTICLEWORKS&action=buy&reprint_url=http://jn.nutrition.org/content/140/3/522.full.pdf&member=&journal=nutrition&volume=140&issue_number=3&cover_date=March 2010&firstpage=522&pages=5&title=Analytical%20Recovery%20of%20Folate%20and%20Its%20Degradation%20Products%20in%20Human%20Serum%20Stored%20at%20%E2%88%9225%C2%B0C%20for%20up%20to%2029%20Years&authors=Rita%20Hannisdal,%20Randi%20E.%20Gislefoss,%20Tom%20K.%20Grimsrud,%20Steinar%20Hustad,%20Lars%20M%C3%B8rkrid,%20Per%20Magne%20Ueland 
+http://informahealthcare.com/doi/pdf/10.3109/02841860903447069 
+http://informahealthcare.com/doi/pdfplus/10.3109/02841860903447069 
+http://onlinelibrary.wiley.com/doi/10.1002/dmrr.1059/pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2009.03760.x/pdf 
+http://atvb.ahajournals.org/content/30/3/612.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272584&_user=955653&_pii=S0039606009006813&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--31&view=c&originContentFamily=serial&wchp=dGLzVlB-zSkzV&md5=f77d04579e2a8eb7104a605b2a66fdb1&pid=1-s2.0-S0039606009006813-main.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10654-009-9413-0 
+http://erj.ersjournals.com/content/34/6/1477.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271057&_user=955653&_pii=S0167527309015745&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--14&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzk&md5=4450141c3c61c9b3cc453050efef7f6a&pid=1-s2.0-S0167527309015745-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271057&_user=955653&_pii=S0167527309015216&_check=y&_origin=article&_zone=toolbar&_coverDate=2011--01&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkzS&md5=f81948ff422e174b72e26be90fc10a1b&pid=1-s2.0-S0167527309015216-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673609619899&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--20&view=c&originContentFamily=serial&wchp=dGLzVlB-zSkzS&md5=489a13c7f6fd561a3c41e2cf2f4fddb4&pid=1-s2.0-S0140673609619899-main.pdf 
+http://sjp.sagepub.com/content/38/1/46.full.pdf+html?frame=header 
+http://sjp.sagepub.com/content/38/1/46.full.pdf 
+http://sjp.sagepub.com/content/38/1/46.full.pdf+html?frame=sidebar 
+http://www.retrovirology.com/content/pdf/1742-4690-6-98.pdf 
+http://link.springer.com/content/pdf/10.1245%2Fs10434-009-0783-z 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276895&_user=955653&_pii=S0002929709004571&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--13&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkWz&md5=8617d420237c69e8ac186f2ecc908e36&pid=1-s2.0-S0002929709004571-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00029297&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.genome.gov%252FPages%252FAbout%252FOD%252FReportsPublications%252FPotentialUSCohort.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00029297&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.dnapolicy.org%252Fresources%252FGINAPublic_Opinion_Genetic_Information_Discrimination.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00029297&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.knowledgenetworks.com%252Fganp%252Fdocs%252FAppendix%252520Survey%252520of%252520Health%252520and%252520the%252520Internet.pdf 
+http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2008.157099 
+http://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.2008.157099 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272415&_user=955653&_pii=S002604950900328X&_check=y&_origin=article&_zone=toolbar&_coverDate=2010--31&view=c&originContentFamily=serial&wchp=dGLbVlt-zSkWA&md5=0b2968503cc4c217d99306e9b5c34ae0&pid=1-s2.0-S002604950900328X-main.pdf 
+http://jech.bmj.com/content/64/11/1004.full.pdf+html 
+http://journal.publications.chestnet.org/data/Journals/CHEST/22082/chest.09-1435.pdf 
+http://www.biomedcentral.com/bmcmedgenet/content/pdf/1471-2350-10-98.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2350-10-98.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.33032/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673609616093&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--18&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzS&md5=5271a142378dc55e9f5a342acdbe4d41&pid=1-s2.0-S0140673609616093-main.pdf 
+http://www.sciencemag.org/content/325/5944/1054.full.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1545-5017/homepage/ASPHO_Abstracts_-_2010-1.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1545-5017/homepage/22779_ftp.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1545-5017/homepage/ASPHO_2008_-_final_paginated.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1545-5017/homepage/HistiocyteSociety2011Abstracts.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/pbc.22236/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10552-009-9423-y 
+http://humrep.oxfordjournals.org/content/24/12/2971.full.pdf+html 
+http://humrep.oxfordjournals.org/content/24/12/3025.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs10561-009-9150-3 
+http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8519/homepage/Bioethics_call_for_papers.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8519.2009.01749.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/elps.200800655/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ijc.24631/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ijc.24774/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/nbm.1417/pdf 
+http://www.nature.com/jhh/journal/v24/n2/pdf/jhh200952a.pdf 
+http://www.idf.org/webdata/docs/IDF_Meta_def_final.pdf 
+http://erj.ersjournals.com/content/35/2/317.full.pdf+html 
+http://www.health.gov/dietaryguidelines/dga2005/document/pdf/dga2005.pdf 
+http://www.nature.com/hr/journal/v32/n9/pdf/hr200992a.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2009.03569.x/pdf 
+http://www.nature.com/emm/journal/v41/n9/pdf/emm200970a.pdf 
+http://www.nature.com/ejhg/journal/v17/n12/pdf/ejhg200987a.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272210&_user=955653&_pii=S1246782009000469&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--31&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkzV&md5=2e98eb612ab995dc761a34d6cf19f711&pid=1-s2.0-S1246782009000469-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1442-2050.2009.00969.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673609606644&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--10&view=c&originContentFamily=serial&wchp=dGLbVlS-zSkWz&md5=47c0e601495974f92407dfad207be916&pid=1-s2.0-S0140673609606644-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=2717328&_pii=S0140673607609246&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=2007-06-22&wchp=dGLzVlS-zSkzS&md5=7c76e625509b31334d641dd9620818f2&pid=1-s2.0-S0140673607609246-main.pdf  
+http://www.retrovirology.com/content/pdf/1742-4690-6-27.pdf 
+http://neuron.mefst.hr/docs/CMJ/issues/2009/50/1/CMJ_50(1)_RUDAN_19260138.pdf 
+http://www.cmj.hr/desno.aspx?year=2009&volume=50&number=1&IDKategorija_Broja=65&pubmed_id=19260138&article_id=9854&pdf_name=CMJ_50(1)_RUDAN_19260138.pdf 
+http://stroke.ahajournals.org/content/40/4/1245.full.pdf+html 
+http://bjo.bmj.com/content/93/5/577.full.pdf+html 
+http://www.nature.com/ejhg/journal/v17/n8/pdf/ejhg20099a.pdf 
+http://www.pnas.org/content/106/8/2473.full.pdf+html 
+http://www.pnas.org/content/106/8/local/masthead.pdf 
+http://www.pnas.org/content/106/8/2700.full.pdf+html 
+http://www.pnas.org/content/106/8/2700.full.pdf+html?with-ds=yes 
+http://www.fhi.no/dav/E16BEBAF24.pdf 
+http://jme.bmj.com/content/35/2/125.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs00774-008-0031-9 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32635/pdf 
+http://vet.sagepub.com/content/46/1/2.full.pdf+html 
+http://mc.manuscriptcentral.com/societyimages/vetpath/VET%20Instructions%20to%20Authors.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271821&_user=955653&_pii=S0277953608006072&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--28&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkWb&md5=79df0ce8c264cfa3768e76c9e993f4fa&pid=1-s2.0-S0277953608006072-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=02779536&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ukbiobank.ac.uk%252Fdocs%252Fperceptions.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=02779536&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.yale.edu%252Fyjhple%252Fvolume_1%252Fpdf%252F033%252520(koenig).pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=02779536&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ukbiobank.ac.uk%252Fdocs%252Fconsultation.pdf 
+http://www4.od.nih.gov/oba/SACGHS/reports/SACGHS_PGx_Report.pdf 
+http://www.emea.europa.eu/pdfs/human/press/pp/307001en.pdf 
+http://www.emea.europa.eu/pdfs/human/ich/43798606en.pdf 
+http://www.fda.gov/cder/guidance/6400fnl.pdf 
+http://www.fda.gov/cdrh/oivd/guidance/1549.pdf 
+http://www.nuffieldbioethics.org/fileLibrary/pdf/pharmacogenetics_report.pdf 
+http://www.nature.com/tpj/journal/v9/n2/pdf/tpj200818a.pdf 
+http://cebp.aacrjournals.org/content/17/12/3344.full.pdf+html 
+http://www.tandfonline.com/doi/pdf/10.1080/15265160802513093 
+http://ije.oxfordjournals.org/content/38/1/119.full.pdf+html 
+http://ije.oxfordjournals.org/content/38/1/72.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272254&_user=955653&_pii=S1473309908702615&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--31&view=c&originContentFamily=serial&wchp=dGLbVlt-zSkWA&md5=51d7b7ba5222f1a968b60fe63240c517&pid=1-s2.0-S1473309908702615-main.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S1473309908702615/1-s2.0-S1473309908702615-mmc1.pdf/272254/FULL/S1473309908702615/00ee928b4847393199e84e976f36133c/mmc1.pdf 
+http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=pdf&_acct=C000049301&_version=1&_userid=955653&md5=481ac9f230e62962ae00540eb773cefa 
+http://www.nature.com/bjc/journal/v100/n1/pdf/6604795a.pdf 
+http://mutage.oxfordjournals.org/content/24/2/117.full.pdf+html 
+http://www.biomedcentral.com/bmcmedethics/content/pdf/1472-6939-9-17.pdf 
+http://www.biomedcentral.com/content/pdf/1472-6939-9-17.pdf 
+http://www.cihr-irsc.gc.ca/e/documents/pbp_sept2005_e.pdf 
+http://www.webcitation.org/query.php?url=http://www.cihr-irsc.gc.ca/e/documents/pbp_sept2005_e.pdf&refdoi=10.1186/1472-6939-9-17 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32559/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00109-008-0412-5 
+http://cebp.aacrjournals.org/content/17/11/2954.full.pdf+html 
+http://jech.bmj.com/content/63/2/121.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs11017-008-9079-8 
+http://epic.org/privacy/genetic/iceland_decision.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1742-7843.2008.00291.x/pdf 
+http://informahealthcare.com/doi/pdf/10.1080/00365510701809235 
+http://informahealthcare.com/doi/pdfplus/10.1080/00365510701809235 
+http://link.springer.com/content/pdf/10.1007%2Fs00292-008-1031-1 
+http://link.springer.com/content/pdf/10.1007%2Fs00292-008-1043-x 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915008004486&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--31&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkzk&md5=33d5175ecf48b2c168f4c36beb5fcc84&pid=1-s2.0-S0021915008004486-main.pdf 
+http://www.mcponline.org/content/7/10/2061.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8519.2008.00673.x/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10561-008-9104-1 
+http://www.hta.gov.uk/_db/_documents/2007-0910_Ipsos_MORI_general_public_qual_and_quant_report_final_200709101952.pdf 
+http://www.astrazeneca.se/download/2002/2002abrdiscovery.pdf 
+http://www.bmj.com/content/337/bmj.a345.pdf%2Bhtml 
+http://www.bmj.com/highwire/section-pdf/8955/9/1 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271057&_user=955653&_pii=S0167527308005561&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--24&view=c&originContentFamily=serial&wchp=dGLzVlt-zSkWA&md5=e478b4a3b8c770a0869553e9e7497815&pid=1-s2.0-S0167527308005561-main.pdf 
+http://www.nature.com/nm/journal/v14/n7/pdf/nm0708-701a.pdf 
+http://msj.sagepub.com/content/14/8/1120.full.pdf+html?frame=header 
+http://msj.sagepub.com/content/14/8/1120.full.pdf 
+http://msj.sagepub.com/content/14/8/1120.full.pdf+html?frame=sidebar 
+http://jech.bmj.com/content/62/7/569.full.pdf+html 
+http://jech.bmj.com/content/62/7/607.full.pdf+html 
+http://www.futuremedicine.com/doi/pdf/10.2217/pme.10.4 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pme.10.4 
+http://www.futuremedicine.com/doi/pdf/10.2217/14622416.7.2.219 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/14622416.7.2.219 
+http://www.futuremedicine.com/doi/pdf/10.1517/17410541.2.1.49 
+http://www.futuremedicine.com/doi/pdfplus/10.1517/17410541.2.1.49 
+http://www.hhs.gov/ohrp/humansubjects/guidance/cdebiol.pdf 
+http://csrc.nist.gov/publications/fips/fips180-2/fips180-2.pdf 
+http://www.nature.com/clpt/journal/v84/n3/pdf/clpt200889a.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271049&_user=955653&_pii=S0022175908001373&_check=y&_origin=article&_zone=toolbar&_coverDate=2008--20&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzk&md5=f5d6ba70aa7aa29f5493a02ed863a7c3&pid=1-s2.0-S0022175908001373-main.pdf 
+http://www.nature.com/jhg/journal/v53/n8/pdf/jhg200889a.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2008.02122.x/pdf 
+http://pubs.acs.org/doi/pdf/10.1021/pr070482e 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr070482e 
+http://pubs.acs.org/doi/pdf/10.1021/pr300567r 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr300567r 
+http://pubs.acs.org/doi/pdf/10.1021/pr100142m 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr100142m 
+http://pubs.acs.org/doi/pdf/10.1021/pr700821k 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr700821k 
+http://pubs.acs.org/doi/pdfplus/10.1021/ac200921j 
+http://pubs.acs.org/doi/pdf/10.1021/ac200921j 
+http://pubs.acs.org/doi/pdfplus/10.1021/co200007w 
+http://pubs.acs.org/doi/pdf/10.1021/co200007w 
+http://pubs.acs.org/doi/pdfplus/10.1021/pr0500962 
+http://pubs.acs.org/doi/pdf/10.1021/pr0500962 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915008001706&_check=y&_origin=article&_zone=toolbar&_coverDate=2009--28&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzS&md5=580650c8bfbe9bc7ada4865e581ac4c1&pid=1-s2.0-S0021915008001706-main.pdf 
+http://ije.oxfordjournals.org/content/37/suppl_1/i62.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i56.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i51.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i46.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i41.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i31.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i23.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i2.full.pdf+html 
+http://ije.oxfordjournals.org/content/37/suppl_1/i16.full.pdf+html 
+http://louisville.edu/medschool/pharmacology/Human.NAT2.pdf 
+http://www.nature.com/ejhg/journal/v16/n7/pdf/ejhg200849a.pdf 
+http://www.sbsonline.org/msdc/pdf/lsc9904-9908.pdf 
+http://ije.oxfordjournals.org/content/37/2/234.full.pdf+html 
+http://www.futuremedicine.com/doi/pdf/10.2217/14622416.9.2.235 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/14622416.9.2.235 
+http://www.futuremedicine.com/doi/pdf/10.2217/fon.10.35 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/fon.10.35 
+http://www.futuremedicine.com/doi/pdf/10.2217/rme.12.6 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/rme.12.6 
+http://www.bmj.com/content/336/7642/467.2.pdf%2Bhtml 
+http://jamia.bmj.com/content/15/3/357.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915008000178&_check=y&_origin=article&_zone=toolbar&_coverDate=2008--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkWb&md5=b18d5b9a2bf351e4bc8a9642389a7e94&pid=1-s2.0-S0021915008000178-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1349-7006.2008.00765.x/pdf 
+http://www.nature.com/bjc/journal/v98/n5/pdf/6604245a.pdf 
+http://jama.jamanetwork.com/data/Journals/JAMA/4403/jpc80001_547_554.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271173&_user=955653&_pii=S0738399107004910&_check=y&_origin=article&_zone=toolbar&_coverDate=2008--30&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWb&md5=cf1c2ddf7725ea234507c62f54104716&pid=1-s2.0-S0738399107004910-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=07383991&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.emea.europa.eu%252Fpdfs%252Fhuman%252Fpress%252Fpp%252F307001en.pdf 
+http://www.revespcardiol.org/es/pdf/13114959/S300/ 
+http://www.revespcardiol.org/en/pdf/13115086/S300/ 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32145/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.a.32146/pdf 
+http://www.nature.com/ejhg/journal/v16/n3/pdf/5201979a.pdf 
+http://jech.bmj.com/content/62/2/89.full.pdf+html 
+http://jech.bmj.com/content/62/2/160.full.pdf+html 
+http://onlinelibrary.wiley.com/doi/10.1002/ajmg.c.30159/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10654-007-9209-z 
+http://aje.oxfordjournals.org/content/167/4/419.full.pdf+html 
+http://jhc.sagepub.com/content/56/3/201.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs10561-007-9051-2 
+http://www.akademiai.com/content/6v506q13g443476v/fulltext.pdf 
+http://www.akademiai.com/content/6v506q13g443476v/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=6v506q13g443476v&size=largest 
+http://wdcm.nig.ac.jp/brc.pdf 
+http://bfg.oxfordjournals.org/content/6/3/193.full.pdf+html 
+http://www.homeoffice.gov.uk/documents/DNA-report2005-06.pdf?view=Binary 
+http://www.parliament.uk/documents/upload/postpn258.pdf 
+http://www.bsf.ac.uk/responses/ForensicBioinformation.pdf 
+http://www.publications.parliament.uk/pa/cm200405/cmselect/cmsctech/96/96i.pdf 
+http://www.homeoffice.gov.uk/documents/NDNAD_AR_04_051.pdf 
+http://www.egcukbiobank.org.uk/assets/wtx037217.pdf 
+http://www.nuffieldbioethics.org/fileLibrary/pdf/Consultation_FINAL001.pdf 
+http://www.cabinetoffice.gov.uk/policy_review/documents/bop_crime.pdf 
+http://www.ec.europa.eu/research/press/2006/pdf/pr1906_eb_64_3_final_report-may2006_en.pdf 
+http://www.dur.ac.uk/resources/sass/Williams%20and%20Johnson%20Interim%20Report%202005-1.pdf 
+http://bmb.oxfordjournals.org/content/83/1/231.full.pdf+html 
+http://bmb.oxfordjournals.org/content/83/1/235.full.pdf+html 
+http://informahealthcare.com/doi/pdf/10.1080/02841860701592400 
+http://informahealthcare.com/doi/pdfplus/10.1080/02841860701592400 
+http://www.univie.ac.at/ierm/php/Dokumente/Oviedo-rap-E.pdf 
+http://www.who.int/reproductive-health/hrp/tissue.pdf 
+http://www.nature.com/nbt/journal/v25/n9/pdf/nbt0907-973b.pdf 
+http://tidsskriftet.no/pdf/pdf2007/2276.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2007.02998.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915007004686&_check=y&_origin=article&_zone=toolbar&_coverDate=2008--29&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWz&md5=3ede5f4301b87b1e0b6f5f6349a77faf&pid=1-s2.0-S0021915007004686-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00219150&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.diabetes.com.au%252Fpdf%252Fobesity_report.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673607613786&_check=y&_origin=article&_zone=toolbar&_coverDate=2007--07&view=c&originContentFamily=serial&wchp=dGLzVBA-zSkzS&md5=4c271748742a13dc98558efde84483f2&pid=1-s2.0-S0140673607613786-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S014067360761349X&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=2007-09-07&wchp=dGLzVlt-zSkzV&md5=b9e5881b28cde7584c019443eb7fcd1e&pid=1-s2.0-S014067360761349X-main.pdf  
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673607613531&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=2007-09-07&wchp=dGLzVlt-zSkzV&md5=3d0db0f9ffa2e2643b11ba1c7ba32d7b&pid=1-s2.0-S0140673607613531-main.pdf  
+http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2006.088096 
+http://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.2006.088096 
+http://www.eymj.org/Synapse/Data/PDFData/0069YMJ/ymj-48-684.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1748-720X.2007.00166.x/pdf 
+http://www.coe.int/T/E/Legal_Affairs/Legal_co-operation/Bioethics/Activities/Biomedical_research/195%20Protocole%20recherche%20biomedicale%20e.pdf 
+http://www.coe.int/t/e/legal_affairs/legal_co-operation/bioethics/texts_and_documents/Rec_2006_4.pdf 
+http://www.eshg.org/ESHGDNAbankingrec.pdf 
+http://www.law.ed.ac.uk/ahrb/publications/online/whofinalreport.pdf 
+http://europa.eu.int/comm/research/conferences/2004/genetic/pdf/recommendations_en.pdf 
+http://www.gig.org.uk/docs/hrprivacypdf190506.pdf 
+http://erj.ersjournals.com/content/30/2/373.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs11019-007-9086-y 
+http://link.springer.com/content/pdf/10.1007%2Fs10545-007-0631-x 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673607609246&_check=y&_origin=article&_zone=toolbar&_coverDate=2007--22&view=c&originContentFamily=serial&wchp=dGLbVlS-zSkWz&md5=b6af7ce2571070efc5e8843e6091d777&pid=1-s2.0-S0140673607609246-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673607609210&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=2007-06-22&wchp=dGLzVlS-zSkzS&md5=40c309ee765828e9c897c2a5b2f9e856&pid=1-s2.0-S0140673607609210-main.pdf  
+http://www.nature.com/nm/journal/v13/n6/pdf/nm0607-653a.pdf 
+http://tidsskriftet.no/pdf/pdf2007/1536-7.pdf 
+http://www.jlr.org/content/48/8/1772.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs11064-007-9336-7 
+http://www.akademiai.com/content/q641w3178ml41245/fulltext.pdf 
+http://www.akademiai.com/content/q641w3178ml41245/fulltext.pdf?page=1 
+http://resources.metapress.com/pdf-preview.axd?code=q641w3178ml41245&size=largest 
+http://www.nature.com/ejhg/journal/v15/n7/pdf/5201850a.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2184.2007.00429.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ijc.22770/pdf 
+http://informahealthcare.com/doi/pdf/10.1080/02841860701203545 
+http://informahealthcare.com/doi/pdfplus/10.1080/02841860701203545 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272339&_user=955653&_pii=S0008874907000342&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzk&md5=e643524b9cc97f8bbeb3f924b82bb89a&pid=1-s2.0-S0008874907000342-main.pdf 
+http://jpmph.org/Synapse/Data/PDFData/0056JPMPH/jpmph-40-122.pdf 
+http://www.cioms.ch/special_ethical_consideration.pdf 
+http://www.helsetilsynet.no/upload/english/nou_2005_1_english%20summary.pdf 
+http://www.ukbiobank.ac.uk/docs/EGF_Version2_July%202006.pdf 
+http://www.hugo-international.org/PDFs/Statement%20on%20Patenting%20Issues%20Relating%20to%20Raw%20Sequence%20Dat.pdf 
+http://www.mannvernd.is/english/lawsuits/Mannvernd_PressRelease_SupremeCourt.pdf 
+http://www.hgc.gov.uk/UploadDocs/DocPub/Document/insideinformation_summary.pdf 
+http://www.bmj.com/content/334/7595/659.1.pdf%2Bhtml 
+http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1547-5069/homepage/YSN_ad_nursing_scholarship_final.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1547-5069.2007.00139.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S0021915007001207&_check=y&_origin=article&_zone=toolbar&_coverDate=2008--31&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkWb&md5=4d8dd88a80f1397003c8bc9424eb68de&pid=1-s2.0-S0021915007001207-main.pdf 
+http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0021915007001207/1-s2.0-S0021915007001207-mmc1.pdf/271064/FULL/S0021915007001207/e3bdbfbdfb7cdd48854acbdd2e19d323/mmc1.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1742-7843.2006.00035.x/pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9896/homepage/NGS_call_for_papers.pdf 
+http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9896/homepage/PATH_Author_Checklist.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/path.2147/pdf 
+http://www.nature.com/nature/journal/v446/n7132/pdf/446119a.pdf 
+http://hmg.oxfordjournals.org/content/16/5/573.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271307&_user=955653&_pii=S0165460806007096&_check=y&_origin=article&_zone=toolbar&_coverDate=2007--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzk&md5=f255b3e302f39bda3fca7c76c2d1f6eb&pid=1-s2.0-S0165460806007096-main.pdf 
+http://apps.elsevier.es/watermark/ctl_servlet?_f=10&pident_articulo=13096749&pident_usuario=0&pcontactid=&pident_revista=28&ty=30&accion=L&origen=elsevier&web=www.elsevier.es&lan=es&fichero=28v25n01a13096749pdf001.pdf 
+http://www.kurtis.it/pdf/jei_instruction.pdf 
+http://www.kurtis.it/home/en_JEI_sub+form.pdf 
+http://www.nature.com/nrg/journal/v8/n2/pdf/nrg1991.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/humu.20453/pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2006.00546.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2006.00542.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2184.2006.00404.x/pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0420.2006.00730.x/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs10654-006-9041-x 
+http://www.biomedcentral.com/bmcmedgenet/content/pdf/1471-2350-7-74.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2350-7-74.pdf 
+http://www.gro-scotland.gov.uk/files/op11-occasional-paper-11.pdf 
+http://www.webcitation.org/query.php?url=http://www.gro-scotland.gov.uk/files/op11-occasional-paper-11.pdf&refdoi=10.1186/1471-2350-7-74 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271064&_user=955653&_pii=S002191500600534X&_check=y&_origin=article&_zone=toolbar&_coverDate=2007--31&view=c&originContentFamily=serial&wchp=dGLbVlB-zSkzS&md5=557bc7d4817175dc92d54790298f7aae&pid=1-s2.0-S002191500600534X-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2265.2006.02615.x/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271970&_user=955653&_pii=S1369848606000483&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--30&view=c&originContentFamily=serial&wchp=dGLbVlS-zSkWb&md5=257ed10af0e9a0602d01f90ea44de9e6&pid=1-s2.0-S1369848606000483-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271970&_user=955653&_pii=S1369848606000471&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--30&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWA&md5=36ee4eff3455c458a775e72fe41ac79a&pid=1-s2.0-S1369848606000471-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.biomedcentral.com%252Fcontent%252Fpdf%252F1472-6939-4-1.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ukbiobank.ac.uk%252Fdocs%252Fperceptions.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.law.wfu.edu%252Fprebuilt%252FLR_v34n3_Greely.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ukbiobank.ac.uk%252Fdocs%252FGPreport.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.hgc.gov.uk%252FUploadDocs%252FDocPub%252FDocument%252Finsideinformation_summary.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.georgetown.edu%252Fresearch%252Fnrcbl%252Fnbac%252Fhbm.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.hgc.gov.uk%252FUploadDocs%252FDocPub%252FDocument%252Fmorigeneticattitudes.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.bioportal.gc.ca%252FCMFiles%252F3Wavexec-e49RUW-922004-9648.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fportal.unesco.org%252Fshs%252Fen%252Ffile_download.php%252F82e7c58d69d425a6fd9f100171e3c072Rapfinal_gendata_en.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.who.int%252Fgenomics%252Fpublications%252Fen%252Fethicalguidelines1998.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=13698486&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.wma.net%252Fe%252Fpolicy%252Fpdf%252F17c.pdf 
+http://www.biomedcentral.com/bmcimmunol/content/pdf/1471-2172-7-22.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2172-7-22.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271200&_user=955653&_pii=S0006322306007104&_check=y&_origin=article&_zone=toolbar&_coverDate=2007--01&view=c&originContentFamily=serial&wchp=dGLzVlt-zSkWz&md5=136dceb4cb21669ddd37fa3399ac44ec&pid=1-s2.0-S0006322306007104-main.pdf 
+http://www.nature.com/mp/journal/v11/n10/pdf/4001873a.pdf 
+http://ije.oxfordjournals.org/content/35/4/844.full.pdf+html 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272415&_user=955653&_pii=S002604950600117X&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--31&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWb&md5=c5e90fcccdd57ca30a1d4881cfcd0e32&pid=1-s2.0-S002604950600117X-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=00260495&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.diabetes.com.au%252Fpdf%252Fobesity_report.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00428-006-0234-1 
+http://link.springer.com/content/pdf/10.1007%2Fs00335-006-0006-x 
+http://www.sciencemag.org/content/312/5780/1584.1.full.pdf 
+http://www.bmj.com/content/332/7549/1052.9.pdf%2Bhtml 
+http://link.springer.com/content/pdf/10.1007%2Fs11019-005-7984-4 
+http://www.nature.com/nature/journal/v440/n7082/pdf/440263a.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=273314&_user=955653&_pii=S1769721205000406&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--30&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkzS&md5=7795fc55c477a73d3a1f3931b653e611&pid=1-s2.0-S1769721205000406-main.pdf 
+http://www.futuremedicine.com/doi/pdf/10.2217/17410541.6.1.93 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/17410541.6.1.93 
+http://www.futuremedicine.com/doi/pdf/10.2217/14622416.7.8.1199 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/14622416.7.8.1199 
+http://www.futuremedicine.com/doi/pdf/10.2217/17410541.3.3.231 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/17410541.3.3.231 
+http://www.futuremedicine.com/doi/pdf/10.1517/14622416.2.4.317 
+http://www.futuremedicine.com/doi/pdfplus/10.1517/14622416.2.4.317 
+http://www.futuremedicine.com/doi/pdf/10.2217/pgs.10.216 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/pgs.10.216 
+http://www.futuremedicine.com/doi/pdf/10.2217/14622416.7.1.49 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/14622416.7.1.49 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272203&_user=955653&_pii=S1470204506706180&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzS&md5=6f76150f6d8a4fb1dcd6cf556c25b263&pid=1-s2.0-S1470204506706180-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272203&_user=955653&_pii=S1470204506705903&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=2006-03-31&wchp=dGLzVlB-zSkzV&md5=76cdf61ea795d500720a9c32617911f9&pid=1-s2.0-S1470204506705903-main.pdf  
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272203&_user=955653&_pii=S1470204506705903&_check=y&_origin=article&_zone=toolbar&_coverDate=2006--31&view=c&originContentFamily=serial&wchp=dGLzVlS-zSkzk&md5=68c2ef566a2c5405018f8da423f49ed6&pid=1-s2.0-S1470204506705903-main.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272203&_user=955653&_pii=S1470204506706180&_check=y&_origin=browse&_zone=rslt_list_item&_coverDate=2006-03-31&wchp=dGLzVlB-zSkWA&md5=dcaa08d41ab98d37a42eda796e9fb294&pid=1-s2.0-S1470204506706180-main.pdf  
+http://arthritis-research.com/content/pdf/ar1868.pdf 
+http://www.sciencemag.org/content/311/5760/456.2.full.pdf 
+http://www.nature.com/labinvest/journal/v86/n2/pdf/3700372a.pdf 
+http://cebp.aacrjournals.org/content/14/12/2952.full.pdf+html 
+http://link.springer.com/content/pdf/10.1007%2Fs00125-005-0044-z 
+http://www.biomedcentral.com/bmcnephrol/content/pdf/1471-2369-6-14.pdf 
+http://www.biomedcentral.com/content/pdf/1471-2369-6-14.pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs11019-005-0397-6 
+http://eurpub.oxfordjournals.org/content/16/4/433.full.pdf+html 
+http://tidsskriftet.no/pdf/pdf2005/2524.pdf 
+http://ard.bmj.com/content/65/4/453.full.pdf+html 
+http://www.futuremedicine.com/doi/pdf/10.2217/iim.12.10 
+http://www.futuremedicine.com/doi/pdfplus/10.2217/iim.12.10 
+http://www.nature.com/nm/journal/v11/n7/pdf/nm0705-696a.pdf 
+http://jme.bmj.com/content/31/7/415.full.pdf+html 
+http://www.nature.com/ejhg/journal/v13/n9/pdf/5201458a.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271043&_user=955653&_pii=S0049384804006358&_check=y&_origin=article&_zone=toolbar&_coverDate=2005--31&view=c&originContentFamily=serial&wchp=dGLzVlV-zSkzS&md5=ee4cbc9a51732459117818b03dfbf3b7&pid=1-s2.0-S0049384804006358-main.pdf 
+http://www.tandfonline.com/doi/pdf/10.1080/01459740590905642 
+http://www.tandf.co.uk/journals/pdf/GMEAarticles.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=276895&_user=955653&_pii=S000292970760723X&_check=y&_origin=article&_zone=toolbar&_coverDate=2005--31&view=c&originContentFamily=serial&wchp=dGLbVlk-zSkzV&md5=7d29c9d97a0a9b17e509b2c6cb6b0cc8&pid=1-s2.0-S000292970760723X-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2005.00442.x/pdf 
+http://online.liebertpub.com/doi/pdf/10.1089/adt.2004.2.683 
+http://online.liebertpub.com/doi/pdfplus/10.1089/adt.2004.2.683 
+/action/clickThrough?id=1948&url=http%3A%2F%2Fwww.liebertpub.com%2Fmcontent%2Ffiles%2F2012%2520MALPubCat.pdf&loc=%2Fdoi%2Fabs%2F10.1089%2Fadt.2004.2.683&pubId=10020117 
+http://archinte.jamanetwork.com/data/Journals/INTEMED/12020/ioi31141.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/sim.1996/pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=272415&_user=955653&_pii=S0026049504002112&_check=y&_origin=article&_zone=toolbar&_coverDate=2004--30&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkWA&md5=b7c0b13155a5b45c732070ca8af8cb41&pid=1-s2.0-S0026049504002112-main.pdf 
+http://sjp.sagepub.com/content/32/3/224.full.pdf+html?frame=header 
+http://sjp.sagepub.com/content/32/3/224.full.pdf 
+http://sjp.sagepub.com/content/32/3/224.full.pdf+html?frame=sidebar 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271201&_user=955653&_pii=S016777990400112X&_check=y&_origin=article&_zone=toolbar&_coverDate=2004--30&view=c&originContentFamily=serial&wchp=dGLzVlS-zSkWz&md5=f4805b4ea847094d31bfbcfb96bd3079&pid=1-s2.0-S016777990400112X-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=01677799&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.dh.gov.uk%252FassetRoot%252F04%252F01%252F92%252F39%252F04019239.pdf 
+http://circ.ahajournals.org/content/109/19/2279.full.pdf+html 
+http://circ.ahajournals.org/site/misc/CIR.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/gepi.10300/pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/ijc.11668/pdf 
+http://www.ingentaconnect.com/search/download;jsessionid=2ex39ttvbg1jq.alexandra?pub=infobike%3a%2f%2frmp%2fipc%2f2003%2f00000011%2f00000003%2fart00003&mimetype=application%2fpdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673603140780&_check=y&_origin=article&_zone=toolbar&_coverDate=2003--09&view=c&originContentFamily=serial&wchp=dGLzVlk-zSkWb&md5=87ca28cf8ab1cd2b2e206f7b54901a01&pid=1-s2.0-S0140673603140780-main.pdf 
+/science?_ob=RedirectURL&_method=externObjLink&_locator=url&_issn=01406736&_origin=article&_zone=art_page&_plusSign=%2B&_targetURL=http%253A%252F%252Fwww.ost.gov.uk%252Fresearch%252Fcouncils%252Fgovt_response_to_select_committee_report_on_mrc.pdf 
+http://www.nature.com/nm/journal/v9/n8/pdf/nm0803-982b.pdf 
+http://www.sciencemag.org/content/300/5625/1485.full.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673603133776&_check=y&_origin=article&_zone=toolbar&_coverDate=2003--17&view=c&originContentFamily=serial&wchp=dGLbVBA-zSkzV&md5=f8064001b87f8bf0dd4f02c985d98a5e&pid=1-s2.0-S0140673603133776-main.pdf 
+http://www.nature.com/nm/journal/v9/n5/pdf/nm0503-491a.pdf 
+http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271074&_user=955653&_pii=S0140673602092887&_check=y&_origin=article&_zone=toolbar&_coverDate=2002--29&view=c&originContentFamily=serial&wchp=dGLbVlV-zSkWz&md5=ed391d39b87899726c17e40cafe39537&pid=1-s2.0-S0140673602092887-main.pdf 
+http://onlinelibrary.wiley.com/doi/10.1002/1097-0258(20001230)19:24<3449::AID-SIM648>3.0.CO;2-Y/pdf 
+http://link.springer.com/content/pdf/10.1007%2Fs00109-012-0944-6 
+http://link.springer.com/content/pdf/10.1007%2Fs00109-012-0991-z 
+http://link.springer.com/content/pdf/10.1007%2Fs00109-012-0951-7 
+result write to output.txt
+

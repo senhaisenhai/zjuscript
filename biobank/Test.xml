@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD eSummaryResult, 29 October 2004//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSummary_041029.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>23339167</Id>
+	<Item Name="PubDate" Type="Date">2013 Jan 21</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jan 21</Item>
+	<Item Name="Source" Type="String">Hypertension</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kvehaugen AS</Item>
+		<Item Name="Author" Type="String">Melien O</Item>
+		<Item Name="Author" Type="String">Holmen OL</Item>
+		<Item Name="Author" Type="String">Laivuori H</Item>
+		<Item Name="Author" Type="String">Oian P</Item>
+		<Item Name="Author" Type="String">Andersgaard AB</Item>
+		<Item Name="Author" Type="String">Dechend R</Item>
+		<Item Name="Author" Type="String">Staff AC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Staff AC</Item>
+	<Item Name="Title" Type="String">Single Nucleotide Polymorphisms in G Protein Signaling Pathway Genes in Preeclampsia.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7906255</Item>
+	<Item Name="ISSN" Type="String">0194-911X</Item>
+	<Item Name="ESSN" Type="String">1524-4563</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">HYPERTENSIONAHA.111.00331</Item>
+		<Item Name="doi" Type="String">10.1161/HYPERTENSIONAHA.111.00331</Item>
+		<Item Name="pubmed" Type="String">23339167</Item>
+		<Item Name="rid" Type="String">23339167</Item>
+		<Item Name="eid" Type="String">23339167</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1161/HYPERTENSIONAHA.111.00331</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/01/23 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/01/23 06:00</Item>
+		<Item Name="medline" Type="Date">2013/01/23 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Hypertension</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Jan 21;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23337946</Id>
+	<Item Name="PubDate" Type="Date">2013 Jan 22</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jan 22</Item>
+	<Item Name="Source" Type="String">Mol Psychiatry</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Brown AS</Item>
+		<Item Name="Author" Type="String">Sourander A</Item>
+		<Item Name="Author" Type="String">Hinkka-Yli-Salomäki S</Item>
+		<Item Name="Author" Type="String">McKeague IW</Item>
+		<Item Name="Author" Type="String">Sundvall J</Item>
+		<Item Name="Author" Type="String">Surcel HM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Surcel HM</Item>
+	<Item Name="Title" Type="String">Elevated maternal C-reactive protein and autism in a national birth cohort.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9607835</Item>
+	<Item Name="ISSN" Type="String">1359-4184</Item>
+	<Item Name="ESSN" Type="String">1476-5578</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">mp2012197</Item>
+		<Item Name="doi" Type="String">10.1038/mp.2012.197</Item>
+		<Item Name="pubmed" Type="String">23337946</Item>
+		<Item Name="rid" Type="String">23337946</Item>
+		<Item Name="eid" Type="String">23337946</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/mp.2012.197</Item>
+	<Item Name="History" Type="List">
+		<Item Name="aheadofprint" Type="Date">2013/01/22 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/01/23 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/01/23 06:00</Item>
+		<Item Name="medline" Type="Date">2013/01/23 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Molecular psychiatry</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/mp.2012.197</Item>
+	<Item Name="SO" Type="String">2013 Jan 22;</Item>
+</DocSum>
+
+
+</eSummaryResult>
