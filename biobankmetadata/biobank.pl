@@ -73,23 +73,20 @@ use Net::FTP;
 
 
 my $delay = 0;
-my $maxdelay = =4;
+my $maxdelay = 3;
 my $base = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/";
 
 #*************************************************************
 #** SCRIPT MAIN BODY *****************************************
 
-$params{email} = "senhaisenhai@gmail.com";
+$params{email} = "senhaisenhai@163.com";
 $params{db} = "pubmed";
 $params{tool} = "ebot";
-$params{term} = "BioBank";
+$params{term} = "biobank";
 %params = esearch(%params);
 
-$params{cmd} = "";
-$params{outfile} = "outlinkwithhtml";
-$params{html} = "y";
-$params{holding} = "";
-elink_out(%params);
+$params{outfile} = "biobank.xml";
+esummary(%params);
 
 #** END SCRIPT MAIN BODY ************************************
 #************************************************************

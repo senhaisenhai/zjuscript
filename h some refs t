@@ -1,0 +1,24 @@
+commit 10aa443dc39f6a299b5e63c560c53d00efef6d86
+Merge: 05337f4 7315bbb
+Author: senhai <senhaisenhai@gmail.com>
+Date:   Sat Jul 13 20:46:34 2013 -0700
+
+    Merge branch 'master' of https://github.com/senhaisenhai/zjuscript
+
+commit 05337f476d569928973282d8ab18caadd63db503
+Author: senhai <senhaisenhai@gmail.com>
+Date:   Sat Jul 13 20:41:59 2013 -0700
+
+    linux submit
+
+commit 7315bbb1db39a43d4877ee2a5e2c91e6192a4906
+Author: senhai <senhaisenhai@gmail.com>
+Date:   Sun Jun 23 16:01:41 2013 -0700
+
+    linux
+
+commit 6a643357f2ab4b8a3ac88c8be75a4f7ac9608537
+Author: Shawn <senhaisenhai@gmail.com>
+Date:   Sun Jun 23 13:00:17 2013 -0700
+
+    first init
